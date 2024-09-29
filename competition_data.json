@@ -1,0 +1,178 @@
+[
+    {
+        "id": "ES1",
+        "name": "LaLiga",
+        "seasonID": "2024",
+        "clubs": [
+            {
+                "id": "418",
+                "name": "Real Madrid"
+            },
+            {
+                "id": "131",
+                "name": "FC Barcelona"
+            },
+            {
+                "id": "13",
+                "name": "Atlético de Madrid"
+            },
+            {
+                "id": "681",
+                "name": "Real Sociedad"
+            },
+            {
+                "id": "621",
+                "name": "Athletic Bilbao"
+            },
+            {
+                "id": "1049",
+                "name": "Valencia CF"
+            },
+            {
+                "id": "12321",
+                "name": "Girona FC"
+            },
+            {
+                "id": "1050",
+                "name": "Villarreal CF"
+            },
+            {
+                "id": "150",
+                "name": "Real Betis Balompié"
+            },
+            {
+                "id": "368",
+                "name": "Sevilla FC"
+            },
+            {
+                "id": "472",
+                "name": "UD Las Palmas"
+            },
+            {
+                "id": "331",
+                "name": "CA Osasuna"
+            },
+            {
+                "id": "237",
+                "name": "RCD Mallorca"
+            },
+            {
+                "id": "1108",
+                "name": "Deportivo Alavés"
+            },
+            {
+                "id": "940",
+                "name": "Celta de Vigo"
+            },
+            {
+                "id": "367",
+                "name": "Rayo Vallecano"
+            },
+            {
+                "id": "714",
+                "name": "RCD Espanyol Barcelona"
+            },
+            {
+                "id": "3709",
+                "name": "Getafe CF"
+            },
+            {
+                "id": "1244",
+                "name": "CD Leganés"
+            },
+            {
+                "id": "366",
+                "name": "Real Valladolid CF"
+            }
+        ],
+        "updatedAt": "2024-09-29T08:14:08.631915"
+    },
+    {
+        "id": "GB1",
+        "name": "Premier League",
+        "seasonID": "2024",
+        "clubs": [
+            {
+                "id": "281",
+                "name": "Manchester City"
+            },
+            {
+                "id": "11",
+                "name": "Arsenal FC"
+            },
+            {
+                "id": "631",
+                "name": "Chelsea FC"
+            },
+            {
+                "id": "31",
+                "name": "Liverpool FC"
+            },
+            {
+                "id": "985",
+                "name": "Manchester United"
+            },
+            {
+                "id": "148",
+                "name": "Tottenham Hotspur"
+            },
+            {
+                "id": "762",
+                "name": "Newcastle United"
+            },
+            {
+                "id": "405",
+                "name": "Aston Villa"
+            },
+            {
+                "id": "1237",
+                "name": "Brighton & Hove Albion"
+            },
+            {
+                "id": "379",
+                "name": "West Ham United"
+            },
+            {
+                "id": "873",
+                "name": "Crystal Palace"
+            },
+            {
+                "id": "703",
+                "name": "Nottingham Forest"
+            },
+            {
+                "id": "1148",
+                "name": "Brentford FC"
+            },
+            {
+                "id": "543",
+                "name": "Wolverhampton Wanderers"
+            },
+            {
+                "id": "989",
+                "name": "AFC Bournemouth"
+            },
+            {
+                "id": "29",
+                "name": "Everton FC"
+            },
+            {
+                "id": "931",
+                "name": "Fulham FC"
+            },
+            {
+                "id": "180",
+                "name": "Southampton FC"
+            },
+            {
+                "id": "1003",
+                "name": "Leicester City"
+            },
+            {
+                "id": "677",
+                "name": "Ipswich Town"
+            }
+        ],
+        "updatedAt": "2024-09-29T08:14:08.581154"
+    }
+]
