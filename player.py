@@ -24,18 +24,18 @@ def fetch_player_data(player_id, retries=3):
                 response = requests.get(url)
                 response.raise_for_status()
                 player_data[key] = response.json()
-                break  # Thoát khỏi vòng lặp nếu gọi thành công
+                break
             except requests.exceptions.HTTPError as err:
                 player_data[key] = {"error": str(err)}
-                break  # Thoát khỏi vòng lặp nếu gặp lỗi HTTP
+                break
             except requests.exceptions.SSLError as ssl_err:
-                if attempt < retries - 1:  # Nếu không phải lần thử cuối
-                    time.sleep(1)  # Chờ một chút trước khi thử lại
+                if attempt < retries - 1:
+                    time.sleep(1)
                 else:
                     player_data[key] = {"error": str(ssl_err)}
             except Exception as e:
                 player_data[key] = {"error": str(e)}
-                break  # Thoát khỏi vòng lặp nếu gặp lỗi không xác định
+                break
     
     return {player_id: player_data}
 
@@ -59,16 +59,12 @@ def save_player_data_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    # Tải dữ liệu các câu lạc bộ từ file JSON
     club_data = load_json('club_data.json')
     
-    # Lấy danh sách tất cả cầu thủ từ dữ liệu câu lạc bộ
     players = []
     for club_id, data in club_data.items():
         players.extend(data.get('players', {}).get('players', []))
     
-    # Lấy dữ liệu cho tất cả cầu thủ
     player_data = fetch_all_player_data(players)
     
-    # Lưu tất cả dữ liệu cầu thủ vào một file JSON duy nhất
     save_player_data_to_json(player_data, 'player_data.json')
