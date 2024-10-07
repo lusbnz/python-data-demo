@@ -1,6 +1,7 @@
 import requests
 import concurrent.futures
 import json
+import os
 
 list_ids = ["GB1", "ES1"]
 
@@ -23,9 +24,11 @@ def fetch_all_apis(list_ids):
     return results
 
 def save_to_json(data, filename):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     api_results = fetch_all_apis(list_ids)
-    save_to_json(api_results, 'competition_data.json')
+    save_to_json(api_results, 'raw_data/competition.json')

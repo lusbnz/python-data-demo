@@ -1,0 +1,1031 @@
+player_id,player_name,position,age,nationality,height,foot,contract,market_value,club_id
+502676,Giorgi Mamardashvili,Goalkeeper,24,Georgia,"1,97m",left,"Jun 30, 2025",€45.00m,1049
+165467,Stole Dimitrievski,Goalkeeper,30,"North Macedonia, Spain","1,88m",right,"Jun 30, 2026",€4.00m,1049
+227805,Jaume Doménech,Goalkeeper,33,Spain,"1,85m",right,"Jun 30, 2025",€800k,1049
+646750,Cristhian Mosquera,Centre-Back,20,"Spain, Colombia","1,91m",right,"Jun 30, 2026",€30.00m,1049
+895334,Yarek Gasiorowski,Centre-Back,19,"Spain, Poland","1,92m",left,"Jun 30, 2025",€15.00m,1049
+369267,Maximiliano Caufriez,Centre-Back,27,Belgium,"1,89m",right,"Jun 30, 2025",€2.50m,1049
+346289,Mouctar Diakhaby,Centre-Back,27,"Guinea, France","1,92m",right,"Jun 30, 2027",€2.00m,1049
+707274,César Tárrega,Centre-Back,22,Spain,"1,94m",right,"Jun 30, 2028",€1.50m,1049
+221322,José Gayà,Left-Back,29,Spain,"1,72m",left,"Jun 30, 2027",€25.00m,1049
+623024,Jesús Vázquez,Left-Back,21,Spain,"1,82m",left,"Jun 30, 2026",€3.00m,1049
+367466,Thierry Correia,Right-Back,25,"Portugal, Cape Verde","1,76m",right,"Jun 30, 2026",€6.00m,1049
+170472,Dimitri Foulquier,Right-Back,31,"Guadeloupe, France","1,83m",right,"Jun 30, 2025",€2.50m,1049
+328480,Pepelu,Defensive Midfield,26,Spain,"1,86m",right,"Jun 30, 2028",€22.00m,1049
+495629,Hugo Guillamón,Defensive Midfield,24,Spain,"1,78m",right,"Jun 30, 2026",€8.00m,1049
+671915,Enzo Barrenechea,Defensive Midfield,23,Argentina,"1,86m",right,"Jun 30, 2025",€7.50m,1049
+834764,Javi Guerra,Central Midfield,21,Spain,"1,87m",right,"Jun 30, 2027",€20.00m,1049
+375382,André Almeida,Attacking Midfield,24,Portugal,"1,76m",right,"Jun 30, 2028",€15.00m,1049
+278837,Luis Rioja,Left Winger,30,Spain,"1,76m",left,"Jun 30, 2026",€4.00m,1049
+617081,Diego López,Right Winger,22,Spain,"1,72m",right,"Jun 30, 2027",€14.00m,1049
+622988,Fran Pérez,Right Winger,22,Spain,"1,76m",right,"Jun 30, 2026",€8.00m,1049
+251845,Sergi Canós,Right Winger,27,Spain,"1,77m",right,"Jun 30, 2027",€2.50m,1049
+548188,Germán Valera,Right Winger,22,"Spain, Lithuania","1,70m",left,"Jun 30, 2028",€2.00m,1049
+573775,Hugo Duro,Centre-Forward,24,Spain,"1,77m",left,"Jun 30, 2028",€16.00m,1049
+361254,Rafa Mir,Centre-Forward,27,Spain,"1,91m",right,"Jun 30, 2025",€2.50m,1049
+422460,Dani Gómez,Centre-Forward,26,Spain,"1,78m",right,"Jun 30, 2025",€1.20m,1049
+121483,Jan Oblak,Goalkeeper,31,Slovenia,"1,88m",right,"Jun 30, 2028",€28.00m,13
+242359,Juan Musso,Goalkeeper,30,"Argentina, Italy","1,91m",right,"Jun 30, 2025",€5.00m,13
+351809,Robin Le Normand,Centre-Back,27,"Spain, France","1,87m",right,"Jun 30, 2029",€40.00m,13
+250845,José María Giménez,Centre-Back,29,"Uruguay, Spain","1,85m",right,"Jun 30, 2028",€22.00m,13
+182904,Clément Lenglet,Centre-Back,29,France,"1,86m",left,"Jun 30, 2025",€10.00m,13
+35047,Axel Witsel,Centre-Back,35,"Belgium, Martinique","1,86m",right,"Jun 30, 2025",€3.50m,13
+57500,César Azpilicueta,Centre-Back,35,Spain,"1,78m",right,"Jun 30, 2025",€2.00m,13
+240692,Reinildo Mandava,Left-Back,30,Mozambique,"1,80m",left,"Jun 30, 2025",€9.00m,13
+448628,Javi Galán,Left-Back,29,Spain,"1,72m",left,"Jun 30, 2026",€7.00m,13
+424042,Nahuel Molina,Right-Back,26,Argentina,"1,75m",right,"Jun 30, 2027",€28.00m,13
+488362,Conor Gallagher,Central Midfield,24,"England, Ireland","1,82m",right,"Jun 30, 2029",€50.00m,13
+255901,Rodrigo de Paul,Central Midfield,30,"Argentina, Italy","1,80m",right,"Jun 30, 2026",€30.00m,13
+775605,Pablo Barrios,Central Midfield,21,Spain,"1,81m",right,"Jun 30, 2028",€25.00m,13
+74229,Koke,Central Midfield,32,Spain,"1,76m",right,"Jun 30, 2025",€12.00m,13
+282411,Marcos Llorente,Right Midfield,29,Spain,"1,84m",right,"Jun 30, 2027",€30.00m,13
+694928,Samuel Lino,Left Midfield,24,Brazil,"1,70m",right,"Jun 30, 2027",€30.00m,13
+205562,Thomas Lemar,Attacking Midfield,28,"France, Guadeloupe","1,71m",left,"Jun 30, 2027",€10.00m,13
+461617,Rodrigo Riquelme,Left Winger,24,Spain,"1,74m",right,"Jun 30, 2028",€25.00m,13
+266807,Ángel Correa,Right Winger,29,"Argentina, Spain","1,71m",right,"Jun 30, 2026",€18.00m,13
+576024,Julián Alvarez,Centre-Forward,24,"Argentina, Italy","1,70m",right,"Jun 30, 2030",€90.00m,13
+125781,Antoine Griezmann,Centre-Forward,33,France,"1,76m",left,"Jun 30, 2026",€25.00m,13
+238407,Alexander Sørloth,Centre-Forward,28,Norway,"1,95m",left,"Jun 30, 2028",€25.00m,13
+742201,Giuliano Simeone,Centre-Forward,21,"Argentina, Italy","1,73m",right,"Jun 30, 2028",€3.00m,13
+566036,Borja Garcés,Centre-Forward,25,Spain,"1,83m",right,"Jun 30, 2025",€2.00m,13
+108390,Thibaut Courtois,Goalkeeper,32,Belgium,"2,00m",left,"Jun 30, 2026",€28.00m,418
+404839,Andriy Lunin,Goalkeeper,25,Ukraine,"1,91m",right,"Jun 30, 2030",€25.00m,418
+401530,Éder Militão,Centre-Back,26,"Brazil, Spain","1,86m",right,"Jun 30, 2028",€60.00m,418
+86202,Antonio Rüdiger,Centre-Back,31,"Germany, Sierra Leone","1,90m",right,"Jun 30, 2026",€25.00m,418
+59016,David Alaba,Centre-Back,32,Austria,"1,80m",left,"Jun 30, 2026",€20.00m,418
+251896,Jesús Vallejo,Centre-Back,27,Spain,"1,84m",right,"Jun 30, 2025",€1.00m,418
+291417,Ferland Mendy,Left-Back,29,"France, Senegal","1,80m",left,"Jun 30, 2025",€22.00m,418
+341264,Fran García,Left-Back,25,Spain,"1,69m",left,"Jun 30, 2027",€15.00m,418
+138927,Daniel Carvajal,Right-Back,32,Spain,"1,73m",right,"Jun 30, 2025",€12.00m,418
+221316,Lucas Vázquez,Right-Back,33,Spain,"1,73m",right,"Jun 30, 2025",€4.00m,418
+413112,Aurélien Tchouaméni,Defensive Midfield,24,"France, Cameroon","1,88m",right,"Jun 30, 2028",€100.00m,418
+369081,Federico Valverde,Central Midfield,26,"Uruguay, Spain","1,82m",right,"Jun 30, 2029",€120.00m,418
+640428,Eduardo Camavinga,Central Midfield,21,"France, Congo","1,82m",left,"Jun 30, 2029",€100.00m,418
+27992,Luka Modric,Central Midfield,39,Croatia,"1,72m",right,"Jun 30, 2025",€6.00m,418
+319745,Dani Ceballos,Central Midfield,28,Spain,"1,79m",right,"Jun 30, 2027",€6.00m,418
+581678,Jude Bellingham,Attacking Midfield,21,"England, Ireland","1,86m",right,"Jun 30, 2029",€180.00m,418
+314678,Brahim Díaz,Attacking Midfield,25,"Morocco, Spain","1,70m",both,"Jun 30, 2027",€40.00m,418
+371998,Vinicius Junior,Left Winger,24,"Brazil, Spain","1,76m",right,"Jun 30, 2027",€180.00m,418
+412363,Rodrygo,Right Winger,23,"Brazil, Spain","1,74m",right,"Jun 30, 2028",€110.00m,418
+861410,Arda Güler,Right Winger,19,Türkiye,"1,75m",left,"Jun 30, 2029",€45.00m,418
+342229,Kylian Mbappé,Centre-Forward,25,"France, Cameroon","1,78m",right,"Jun 30, 2029",€180.00m,418
+971570,Endrick,Centre-Forward,18,Brazil,"1,73m",left,"Jun 30, 2030",€60.00m,418
+712107,Luiz Júnior,Goalkeeper,23,"Brazil, Portugal","1,92m",left,"Jun 30, 2030",€6.00m,1050
+341713,Diego Conde,Goalkeeper,25,Spain,"1,88m",right,"Jun 30, 2029",€2.00m,1050
+547248,Iker Álvarez,Goalkeeper,23,Andorra,"1,90m",right,"Jun 30, 2026",€800k,1050
+484988,Logan Costa,Centre-Back,23,"Cape Verde, France","1,90m",right,"Jun 30, 2030",€12.00m,1050
+780630,Willy Kambwala,Centre-Back,20,"France, DR Congo","1,92m",right,"Jun 30, 2029",€5.00m,1050
+286384,Eric Bailly,Centre-Back,30,Cote d'Ivoire,"1,87m",right,"Jun 30, 2025",€3.00m,1050
+15452,Raúl Albiol,Centre-Back,39,Spain,"1,90m",right,"Jun 30, 2025",€1.50m,1050
+678406,Sergi Cardona,Left-Back,25,Spain,"1,86m",both,"Jun 30, 2027",€6.00m,1050
+356197,Alfonso Pedraza,Left-Back,28,Spain,"1,84m",left,"Jun 30, 2026",€5.00m,1050
+126719,Juan Bernat,Left-Back,31,Spain,"1,70m",left,"Jun 30, 2025",€4.00m,1050
+480763,Juan Foyth,Right-Back,26,"Argentina, Spain","1,87m",right,"Jun 30, 2026",€15.00m,1050
+76467,Kiko Femenía,Right-Back,33,Spain,"1,74m",right,"Jun 30, 2025",€1.40m,1050
+485963,Pape Gueye,Defensive Midfield,25,"Senegal, France","1,89m",left,"Jun 30, 2028",€6.00m,1050
+783396,Ramón Terrats,Defensive Midfield,23,Spain,"1,81m",left,"Jun 30, 2026",€4.00m,1050
+380598,Santi Comesaña,Central Midfield,27,Spain,"1,88m",both,"Jun 30, 2027",€6.00m,1050
+59561,Dani Parejo,Central Midfield,35,Spain,"1,82m",right,"Jun 30, 2026",€2.50m,1050
+165007,Denis Suárez,Attacking Midfield,30,Spain,"1,76m",right,"Jun 30, 2026",€1.50m,1050
+548111,Álex Baena,Left Winger,23,Spain,"1,74m",right,"Jun 30, 2028",€40.00m,1050
+246968,Ayoze Pérez,Left Winger,31,Spain,"1,78m",right,"Jun 30, 2028",€7.00m,1050
+568157,Yéremy Pino,Right Winger,21,Spain,"1,72m",right,"Jun 30, 2027",€30.00m,1050
+709969,Ilias Akhomach,Right Winger,20,"Morocco, Spain","1,75m",left,"Jun 30, 2026",€15.00m,1050
+343052,Nicolas Pépé,Right Winger,29,"Cote d'Ivoire, France","1,83m",left,"Jun 30, 2026",€8.50m,1050
+177467,Gerard Moreno,Centre-Forward,32,Spain,"1,80m",left,"Jun 30, 2027",€10.00m,1050
+937941,Thierno Barry,Centre-Forward,21,"France, Guinea","1,95m",right,"Jun 30, 2029",€4.00m,1050
+286415,Pau López,Goalkeeper,29,Spain,"1,89m",left,"Jun 30, 2025",€10.00m,12321
+195488,Paulo Gazzaniga,Goalkeeper,32,"Argentina, Italy","1,95m",right,"Jun 30, 2027",€4.00m,12321
+120705,Juan Carlos,Goalkeeper,36,Spain,"1,87m",N/A,"Jun 30, 2025",€200k,12321
+345911,Ladislav Krejci,Centre-Back,25,Czech Republic,"1,91m",left,"Jun 30, 2029",€10.00m,12321
+632896,Alejandro Francés,Centre-Back,22,Spain,"1,82m",right,"Jun 30, 2029",€4.00m,12321
+12282,Daley Blind,Centre-Back,34,"Netherlands, England","1,80m",left,"Jun 30, 2026",€3.00m,12321
+129444,David López,Centre-Back,34,Spain,"1,85m",right,"Jun 30, 2026",€2.50m,12321
+115333,Juanpe,Centre-Back,33,Spain,"1,90m",right,"Jun 30, 2025",€1.00m,12321
+525299,Miguel Gutiérrez,Left-Back,23,Spain,"1,80m",left,"Jun 30, 2027",€25.00m,12321
+826224,Arnau Martínez,Right-Back,21,Spain,"1,82m",right,"Jun 30, 2027",€10.00m,12321
+66100,Oriol Romeu,Defensive Midfield,33,Spain,"1,83m",right,"Jun 30, 2025",€2.00m,12321
+378293,Yangel Herrera,Central Midfield,26,"Venezuela, Spain","1,84m",right,"Jun 30, 2027",€25.00m,12321
+288255,Donny van de Beek,Central Midfield,27,Netherlands,"1,84m",right,"Jun 30, 2028",€5.00m,12321
+742521,Jhon Solís,Central Midfield,19,Colombia,"1,86m",right,"Jun 30, 2028",€3.00m,12321
+341278,Iván Martín,Attacking Midfield,25,Spain,"1,78m",left,"Jun 30, 2026",€15.00m,12321
+646698,Gabriel Misehouy,Attacking Midfield,19,"Netherlands, Ghana","1,73m",right,"Jun 30, 2028",€1.00m,12321
+537382,Bryan Gil,Left Winger,23,Spain,"1,75m",left,"Jun 30, 2025",€14.00m,12321
+355861,Arnaut Danjuma,Left Winger,27,"Netherlands, Nigeria","1,78m",right,"Jun 30, 2025",€13.00m,12321
+264372,Viktor Tsygankov,Right Winger,26,Ukraine,"1,78m",left,"Jun 30, 2027",€30.00m,12321
+857818,Yaser Asprilla,Right Winger,20,Colombia,"1,75m",left,"Jun 30, 2030",€9.00m,12321
+99353,Portu,Right Winger,32,Spain,"1,67m",right,"Jun 30, 2027",€3.50m,12321
+340376,Abel Ruiz,Centre-Forward,24,Spain,"1,82m",right,"Jun 30, 2029",€12.00m,12321
+476219,Bojan Miovski,Centre-Forward,25,North Macedonia,"1,89m",left,"Jun 30, 2028",€4.00m,12321
+59323,Cristhian Stuani,Centre-Forward,37,"Uruguay, Italy","1,84m",right,"Jun 30, 2026",€1.80m,12321
+262396,Unai Simón,Goalkeeper,27,Spain,"1,90m",right,"Jun 30, 2029",€30.00m,621
+625014,Julen Agirrezabala,Goalkeeper,23,Spain,"1,87m",left,"Jun 30, 2027",€5.00m,621
+834483,Álex Padilla,Goalkeeper,21,"Mexico, Spain","1,90m",right,"Jun 30, 2027",€200k,621
+524000,Dani Vivian,Centre-Back,25,Spain,"1,84m",right,"Jun 30, 2032",€25.00m,621
+591916,Aitor Paredes,Centre-Back,24,Spain,"1,85m",right,"Jun 30, 2029",€22.00m,621
+255488,Yeray Álvarez,Centre-Back,29,Spain,"1,82m",right,"Jun 30, 2026",€8.00m,621
+338285,Unai Núñez,Centre-Back,27,Spain,"1,86m",right,"Jun 30, 2025",€7.00m,621
+61812,Yuri Berchiche,Left-Back,34,"Spain, Algeria","1,81m",left,"Jun 30, 2025",€1.80m,621
+710671,Adama Boiro,Left-Back,22,"Spain, Senegal","1,83m",left,"Jun 30, 2029",€400k,621
+289255,Andoni Gorosabel,Right-Back,28,Spain,"1,74m",right,"Jun 30, 2028",€5.00m,621
+255501,Iñigo Lekue,Right-Back,31,Spain,"1,80m",right,"Jun 30, 2025",€3.00m,621
+96718,Óscar de Marcos,Right-Back,35,Spain,"1,82m",right,"Jun 30, 2025",€1.50m,621
+300168,Mikel Vesga,Defensive Midfield,31,Spain,"1,91m",left,"Jun 30, 2027",€4.00m,621
+625047,Beñat Prados,Central Midfield,23,Spain,"1,80m",right,"Jun 30, 2031",€15.00m,621
+126751,Iñigo Ruiz de Galarreta,Central Midfield,31,Spain,"1,75m",right,"Jun 30, 2025",€5.00m,621
+99343,Ander Herrera,Central Midfield,35,Spain,"1,82m",right,"Jun 30, 2025",€2.00m,621
+938729,Mikel Jauregizar,Central Midfield,20,Spain,"1,77m",right,"Jun 30, 2027",€800k,621
+571020,Oihan Sancet,Attacking Midfield,24,Spain,"1,88m",right,"Jun 30, 2032",€35.00m,621
+834752,Unai Gómez,Attacking Midfield,21,Spain,"1,83m",left,"Jun 30, 2028",€6.00m,621
+709187,Nico Williams,Left Winger,22,"Spain, Ghana","1,81m",right,"Jun 30, 2027",€70.00m,621
+671649,Álvaro Djaló,Left Winger,25,"Spain, Guinea-Bissau","1,75m",right,"Jun 30, 2029",€15.00m,621
+338425,Álex Berenguer,Left Winger,29,Spain,"1,75m",right,"Jun 30, 2027",€12.00m,621
+668183,Nico Serrano,Left Winger,21,Spain,"1,76m",left,"Jun 30, 2026",€1.40m,621
+255508,Iñaki Williams,Right Winger,30,"Ghana, Spain","1,86m",right,"Jun 30, 2028",€25.00m,621
+340205,Gorka Guruzeta,Centre-Forward,28,Spain,"1,88m",right,"Jun 30, 2028",€18.00m,621
+711394,Javier Martón,Centre-Forward,25,Spain,"1,81m",right,"Jun 30, 2026",€500k,621
+417913,Álvaro Valles,Goalkeeper,27,Spain,"1,91m",right,"Jun 30, 2025",€12.00m,472
+146227,Jasper Cillessen,Goalkeeper,35,Netherlands,"1,87m",right,"Jun 30, 2026",€1.30m,472
+357770,Dinko Horkas,Goalkeeper,25,"Croatia, Bosnia-Herzegovina","1,89m",right,"Jun 30, 2028",€1.20m,472
+617060,Mika Mármol,Centre-Back,23,Spain,"1,81m",left,"Jun 30, 2026",€15.00m,472
+255906,Scott McKenna,Centre-Back,27,Scotland,"1,89m",left,"Jun 30, 2027",€9.00m,472
+510396,Alex Suárez,Centre-Back,31,Spain,"1,80m",right,"Jun 30, 2026",€1.20m,472
+1146029,Juanma Herzog,Centre-Back,20,"Spain, Germany","1,86m",right,"Jun 30, 2025",€1.00m,472
+243760,Álex Muñoz,Left-Back,30,Spain,"1,87m",left,"Jun 30, 2026",€1.20m,472
+215099,Daley Sinkgraven,Left-Back,29,Netherlands,"1,79m",left,"Jun 30, 2025",€1.00m,472
+603940,Marvin Park,Right-Back,24,Spain,"1,77m",right,"Jun 30, 2028",€2.00m,472
+438971,Viti Rozada,Right-Back,27,Spain,"1,72m",right,"Jun 30, 2027",€1.50m,472
+670717,Dário Essugo,Defensive Midfield,19,"Portugal, Angola","1,78m",right,"Jun 30, 2025",€3.50m,472
+581781,Enzo Loiodice,Central Midfield,23,France,"1,77m",left,"Jun 30, 2026",€4.00m,472
+282421,Javi Muñoz,Central Midfield,29,Spain,"1,77m",right,"Jun 30, 2025",€3.00m,472
+120095,José Campaña,Central Midfield,31,Spain,"1,79m",right,"Jun 30, 2025",€1.50m,472
+531062,Fabio González,Central Midfield,27,Spain,"1,76m",right,"Jun 30, 2025",€500k,472
+733576,Alberto Moleiro,Attacking Midfield,20,"Spain, Cuba","1,71m",right,"Jun 30, 2026",€15.00m,472
+566574,Kirian Rodríguez,Attacking Midfield,28,Spain,"1,78m",right,"Jun 30, 2028",€12.00m,472
+611075,Iván Gil,Attacking Midfield,24,Spain,"1,68m",right,"Jun 30, 2027",€1.00m,472
+511021,Manu Fuster,Left Winger,26,Spain,"1,69m",right,"Jun 30, 2028",€2.40m,472
+534379,Pejiño,Left Winger,28,Spain,"1,78m",left,"Jun 30, 2026",€1.20m,472
+282672,Benito Ramírez,Left Winger,29,Spain,"1,79m",left,"Jun 30, 2025",€600k,472
+177847,Adnan Januzaj,Right Winger,29,"Belgium, Kosovo","1,86m",left,"Jun 30, 2025",€2.00m,472
+505653,Fábio Silva,Centre-Forward,22,Portugal,"1,85m",right,"Jun 30, 2025",€11.00m,472
+298477,Oli McBurnie,Centre-Forward,28,"Scotland, England","1,88m",right,"Jun 30, 2027",€4.50m,472
+199369,Sandro Ramírez,Centre-Forward,29,Spain,"1,74m",right,"Jun 30, 2026",€1.50m,472
+443222,Marc Cardona,Centre-Forward,29,Spain,"1,82m",right,"Jun 30, 2026",€1.40m,472
+227961,Jaime Mata,Centre-Forward,35,Spain,"1,86m",right,"Jun 30, 2025",€900k,472
+453704,Álvaro Fernández,Goalkeeper,26,Spain,"1,85m",right,"Jun 30, 2025",€2.50m,368
+73517,Ørjan Nyland,Goalkeeper,34,Norway,"1,92m",right,"Jun 30, 2026",€1.40m,368
+730581,Loïc Badé,Centre-Back,24,"France, Cote d'Ivoire","1,91m",right,"Jun 30, 2029",€14.00m,368
+766583,Kike Salas,Centre-Back,22,Spain,"1,88m",left,"Jun 30, 2026",€10.00m,368
+439022,Marcão,Centre-Back,28,Brazil,"1,85m",left,"Jun 30, 2027",€4.00m,368
+74294,Nemanja Gudelj,Centre-Back,32,"Serbia, Netherlands","1,87m",right,"Jun 30, 2026",€3.50m,368
+538996,Tanguy Nianzou,Centre-Back,22,"France, Cote d'Ivoire","1,91m",right,"Jun 30, 2027",€3.00m,368
+849410,Valentín Barco,Left-Back,20,Argentina,"1,70m",left,"Jun 30, 2025",€13.00m,368
+501418,Adrià Pedrosa,Left-Back,26,Spain,"1,72m",left,"Jun 30, 2028",€6.00m,368
+676042,Juanlu Sánchez,Right-Back,21,Spain,"1,86m",right,"Jun 30, 2026",€15.00m,368
+402733,Gonzalo Montiel,Right-Back,27,"Argentina, Spain","1,75m",right,"Jun 30, 2026",€10.00m,368
+711625,José Ángel Carmona,Right-Back,22,Spain,"1,84m",right,"Jun 30, 2025",€3.50m,368
+15956,Jesús Navas,Right-Back,38,Spain,"1,70m",right,"Dec 31, 2024",€2.50m,368
+569384,Lucien Agoumé,Defensive Midfield,22,"France, Cameroon","1,85m",right,"Jun 30, 2028",€6.00m,368
+381967,Albert Sambi Lokonga,Central Midfield,24,"Belgium, DR Congo","1,83m",right,"Jun 30, 2025",€15.00m,368
+212723,Djibril Sow,Central Midfield,27,"Switzerland, Senegal","1,84m",right,"Jun 30, 2028",€9.00m,368
+148928,Saúl Ñíguez,Central Midfield,29,Spain,"1,84m",left,"Jun 30, 2025",€7.50m,368
+610238,Pedro Ortiz,Central Midfield,24,Spain,"1,84m",left,"Jun 30, 2025",€400k,368
+766723,Manu Bueno,Central Midfield,20,Spain,"1,78m",left,"Jun 30, 2026",€300k,368
+500067,Chidera Ejuke,Left Winger,26,Nigeria,"1,76m",right,"Jun 30, 2027",€6.00m,368
+303259,Dodi Lukébakio,Right Winger,27,"Belgium, DR Congo","1,87m",left,"Jun 30, 2028",€12.00m,368
+111961,Suso,Right Winger,30,Spain,"1,77m",left,"Jun 30, 2025",€4.00m,368
+639733,Peque Fernández,Second Striker,21,Spain,"1,72m",right,"Jun 30, 2028",€3.00m,368
+687609,Isaac Romero,Centre-Forward,24,Spain,"1,84m",left,"Jun 30, 2028",€18.00m,368
+295330,Kelechi Iheanacho,Centre-Forward,27,Nigeria,"1,85m",left,"Jun 30, 2026",€12.00m,368
+316884,Dominik Greif,Goalkeeper,27,Slovakia,"1,97m",right,"Jun 30, 2026",€2.50m,237
+562742,Leo Román,Goalkeeper,24,Spain,"1,89m",right,"Jun 30, 2026",€1.80m,237
+27493,Iván Cuéllar,Goalkeeper,40,Spain,"1,87m",left,"Jun 30, 2025",€100k,237
+277384,Martin Valjent,Centre-Back,28,Slovakia,"1,87m",right,"Jun 30, 2025",€6.00m,237
+520840,José Copete,Centre-Back,24,Spain,"1,90m",left,"Jun 30, 2026",€2.80m,237
+400131,Siebe Van der Heyden,Centre-Back,26,Belgium,"1,85m",left,"Jun 30, 2028",€2.00m,237
+278296,Antonio Raíllo,Centre-Back,32,Spain,"1,87m",N/A,"Jun 30, 2026",€2.00m,237
+320271,Toni Lato,Left-Back,26,Spain,"1,71m",left,"Jun 30, 2027",€3.50m,237
+262939,Johan Mojica,Left-Back,32,"Colombia, Spain","1,85m",left,"Jun 30, 2027",€2.20m,237
+251876,Pablo Maffeo,Right-Back,27,"Argentina, Spain","1,72m",right,"Jun 30, 2027",€5.00m,237
+388513,Mateu Morey,Right-Back,24,Spain,"1,73m",right,"Jun 30, 2025",€800k,237
+657430,Samú Costa,Defensive Midfield,23,Portugal,"1,85m",left,"Jun 30, 2028",€10.00m,237
+142031,Omar Mascarell,Defensive Midfield,31,"Equatorial Guinea, Spain","1,81m",right,"Jun 30, 2026",€1.00m,237
+142021,Sergi Darder,Central Midfield,30,Spain,"1,80m",right,"Jun 30, 2028",€6.00m,237
+335225,Manu Morlanes,Central Midfield,25,Spain,"1,78m",right,"Jun 30, 2028",€2.50m,237
+513031,Antonio Sánchez,Central Midfield,27,Spain,"1,79m",right,"Jun 30, 2027",€2.50m,237
+563137,Robert Navarro,Attacking Midfield,22,Spain,"1,78m",right,"Jun 30, 2025",€6.00m,237
+139435,Dani Rodríguez,Attacking Midfield,36,Spain,"1,78m",right,"Jun 30, 2025",€1.00m,237
+695454,Chiquinho,Left Winger,24,"Portugal, Cape Verde","1,79m",right,"Jun 30, 2025",€3.00m,237
+706138,Javi Llabrés,Left Winger,22,Spain,"1,74m",both,"Jun 30, 2026",€700k,237
+245744,Takuma Asano,Right Winger,29,Japan,"1,73m",right,"Jun 30, 2026",€4.00m,237
+331496,Valery Fernández,Right Winger,24,Spain,"1,82m",right,"Jun 30, 2025",€2.50m,237
+256267,Vedat Muriqi,Centre-Forward,30,"Kosovo, Albania","1,94m",left,"Jun 30, 2027",€12.00m,237
+343463,Cyle Larin,Centre-Forward,29,"Canada, Jamaica","1,88m",right,"Jun 30, 2028",€4.00m,237
+177452,Abdón Prats,Centre-Forward,31,Spain,"1,81m",left,"Jun 30, 2026",€1.80m,237
+1296876,Marc Domènech,Centre-Forward,17,Spain,N/A,N/A,"Jun 30, 2029",N/A,237
+234811,Rui Silva,Goalkeeper,30,Portugal,"1,91m",left,"Jun 30, 2026",€8.00m,150
+71271,Adrián,Goalkeeper,37,Spain,"1,90m",right,"Jun 30, 2026",€600k,150
+551182,Fran Vieites,Goalkeeper,25,Spain,"1,96m",left,"Jun 30, 2026",€500k,150
+735568,Natan,Centre-Back,23,Brazil,"1,88m",left,"Jun 30, 2025",€12.00m,150
+246291,Diego Llorente,Centre-Back,31,Spain,"1,86m",right,"Jun 30, 2028",€7.00m,150
+99922,Marc Bartra,Centre-Back,33,Spain,"1,84m",right,"Jun 30, 2025",€1.00m,150
+318523,Romain Perraud,Left-Back,27,France,"1,73m",left,"Jun 30, 2029",€5.00m,150
+86784,Ricardo Rodríguez,Left-Back,32,"Switzerland, Chile","1,82m",left,"Jun 30, 2026",€3.50m,150
+191217,Héctor Bellerín,Right-Back,29,Spain,"1,78m",right,"Jun 30, 2028",€4.00m,150
+135492,Youssouf Sabaly,Right-Back,31,"Senegal, France","1,73m",right,"Jun 30, 2026",€2.50m,150
+689505,Johnny Cardoso,Defensive Midfield,23,"United States, Italy","1,86m",right,"Jun 30, 2029",€25.00m,150
+336869,Marc Roca,Defensive Midfield,27,Spain,"1,84m",left,"Jun 30, 2029",€9.00m,150
+100131,William Carvalho,Defensive Midfield,32,"Portugal, Angola","1,87m",right,"Jun 30, 2026",€3.00m,150
+348795,Giovani Lo Celso,Central Midfield,28,"Argentina, Italy","1,77m",left,"Jun 30, 2028",€16.00m,150
+466801,Sergi Altimira,Central Midfield,23,Spain,"1,88m",right,"Jun 30, 2028",€2.50m,150
+357885,Pablo Fornals,Attacking Midfield,28,Spain,"1,78m",right,"Jun 30, 2029",€14.00m,150
+85288,Isco,Attacking Midfield,32,Spain,"1,76m",right,"Jun 30, 2027",€8.00m,150
+724520,Abde Ezzalzouli,Left Winger,22,"Morocco, Spain","1,77m",right,"Jun 30, 2028",€9.00m,150
+126737,Juanmi,Left Winger,31,Spain,"1,72m",right,"Jun 30, 2026",€6.00m,150
+1061282,Assane Diao,Right Winger,19,"Spain, Senegal","1,85m",right,"Jun 30, 2027",€12.00m,150
+378139,Aitor Ruibal,Right Winger,28,Spain,"1,76m",right,"Jun 30, 2028",€3.50m,150
+632741,Iker Losada,Second Striker,23,Spain,"1,75m",right,"Jun 30, 2029",€1.80m,150
+943837,Vitor Roque,Centre-Forward,19,Brazil,"1,74m",right,"Jun 30, 2025",€30.00m,150
+167721,Chimy Ávila,Centre-Forward,30,"Argentina, Spain","1,72m",right,"Jun 30, 2027",€3.00m,150
+127048,Cédric Bakambu,Centre-Forward,33,"DR Congo, France","1,82m",right,"Jun 30, 2026",€2.50m,150
+298197,Antonio Sivera,Goalkeeper,28,Spain,"1,85m",right,"Jun 30, 2027",€6.00m,1108
+631693,Jesús Owono,Goalkeeper,23,"Equatorial Guinea, Spain","1,81m",both,"Jun 30, 2026",€1.00m,1108
+559979,Abdel Abqar,Centre-Back,25,Morocco,"1,88m",right,"Jun 30, 2025",€7.50m,1108
+694509,Moussa Diarra,Centre-Back,23,"Mali, France","1,85m",left,"Jun 30, 2028",€2.00m,1108
+953901,Santiago Mouriño,Centre-Back,22,Uruguay,"1,86m",right,"Jun 30, 2029",€1.20m,1108
+237499,Aleksandar Sedlar,Centre-Back,32,Serbia,"1,80m",right,"Jun 30, 2025",€400k,1108
+618809,Manu Sánchez,Left-Back,24,Spain,"1,71m",left,"Jun 30, 2025",€8.00m,1108
+668276,Hugo Novoa,Right-Back,21,Spain,"1,82m",right,"Jun 30, 2029",€2.50m,1108
+533568,Nahuel Tenaglia,Right-Back,28,"Argentina, Italy","1,81m",right,"Jun 30, 2027",€2.00m,1108
+495621,Antonio Blanco,Defensive Midfield,24,Spain,"1,76m",right,"Jun 30, 2027",€7.50m,1108
+431190,Carlos Protesoni,Defensive Midfield,26,"Uruguay, Italy","1,85m",right,"Jun 30, 2026",€1.50m,1108
+465967,Ander Guevara,Central Midfield,27,Spain,"1,80m",right,"Jun 30, 2027",€5.00m,1108
+289257,Jon Guridi,Central Midfield,29,Spain,"1,79m",left,"Jun 30, 2026",€4.00m,1108
+263727,Joan Jordán,Central Midfield,30,Spain,"1,85m",right,"Jun 30, 2025",€3.50m,1108
+401571,Tomás Conechny,Left Winger,26,"Argentina, Poland","1,76m",left,"Jun 30, 2028",€4.50m,1108
+718034,Abde Rebbach,Left Winger,26,"Algeria, Spain","1,76m",right,"Jun 30, 2028",€800k,1108
+769063,Luka Romero,Right Winger,19,"Argentina, Spain","1,69m",left,"Jun 30, 2025",€5.00m,1108
+540536,Carlos Vicente,Right Winger,25,Spain,"1,79m",right,"Jun 30, 2027",€4.00m,1108
+271021,Stoichkov,Second Striker,30,Spain,"1,78m",right,"Jun 30, 2027",€4.00m,1108
+302371,Toni Martínez,Centre-Forward,27,Spain,"1,87m",right,"Jun 30, 2028",€5.00m,1108
+618813,Carlos Martín,Centre-Forward,22,Spain,"1,80m",right,"Jun 30, 2025",€3.50m,1108
+251897,Asier Villalibre,Centre-Forward,26,Spain,"1,82m",left,"Jun 30, 2028",€2.50m,1108
+93936,Kike García,Centre-Forward,34,Spain,"1,86m",right,"Jun 30, 2025",€1.00m,1108
+248738,Sergio Herrera,Goalkeeper,31,Spain,"1,92m",right,"Jun 30, 2026",€6.00m,331
+118997,Aitor Fernández,Goalkeeper,33,Spain,"1,82m",right,"Jun 30, 2025",€1.80m,331
+555500,Jorge Herrando,Centre-Back,23,Spain,"1,92m",left,"Jun 30, 2027",€6.00m,331
+449796,Alejandro Catena,Centre-Back,29,Spain,"1,94m",right,"Jun 30, 2028",€4.00m,331
+541555,Enzo Boyomo,Centre-Back,22,"Cameroon, France","1,84m",right,"May 30, 2029",€3.00m,331
+197122,Unai García,Centre-Back,32,Spain,"1,86m",right,"Jun 30, 2025",€1.20m,331
+169497,Juan Cruz,Left-Back,32,Spain,"1,82m",left,"Jun 30, 2026",€2.20m,331
+658115,Abel Bretones,Left-Back,24,Spain,"1,88m",left,"Jun 30, 2029",€1.80m,331
+488626,Jesús Areso,Right-Back,25,Spain,"1,82m",right,"Jun 30, 2026",€7.50m,331
+238868,Rubén Peña,Right-Back,33,Spain,"1,70m",right,"Jun 30, 2025",€2.20m,331
+216870,Nacho Vidal,Right-Back,29,Spain,"1,80m",right,"Jun 30, 2025",€2.00m,331
+710677,Iker Muñoz,Defensive Midfield,22,Spain,"1,80m",right,"Jun 30, 2027",€5.00m,331
+213670,Lucas Torró,Defensive Midfield,30,Spain,"1,90m",right,"Jun 30, 2027",€4.00m,331
+552425,Jon Moncayola,Central Midfield,26,Spain,"1,82m",right,"Jun 30, 2031",€7.00m,331
+785353,Pablo Ibáñez,Central Midfield,26,Spain,"1,79m",right,"Jun 30, 2025",€2.50m,331
+634131,Aimar Oroz,Attacking Midfield,22,Spain,"1,77m",right,"Jun 30, 2029",€15.00m,331
+471474,Javi Martínez,Attacking Midfield,24,Spain,"1,81m",right,"Jun 30, 2026",€1.20m,331
+713644,Bryan Zaragoza,Left Winger,23,Spain,"1,64m",right,"Jun 30, 2025",€12.00m,331
+175449,Moi Gómez,Left Winger,30,Spain,"1,76m",right,"Jun 30, 2027",€3.50m,331
+364603,José Manuel Arnáiz,Left Winger,29,Spain,"1,73m",right,"Jun 30, 2025",€2.00m,331
+213260,Rubén García,Right Winger,31,Spain,"1,72m",left,"Jun 30, 2026",€2.50m,331
+298575,Kike Barja,Right Winger,27,Spain,"1,79m",right,"Jun 30, 2026",€2.00m,331
+710679,Iker Benito,Right Winger,22,Spain,"1,76m",right,"Jun 30, 2027",€800k,331
+46413,Ante Budimir,Centre-Forward,33,Croatia,"1,90m",left,"Jun 30, 2027",€5.00m,331
+631002,Raúl García,Centre-Forward,23,Spain,"1,92m",right,"Jun 30, 2028",€4.00m,331
+212862,Álex Remiro,Goalkeeper,29,Spain,"1,91m",right,"Jun 30, 2027",€25.00m,681
+625657,Unai Marrero,Goalkeeper,22,Spain,"1,89m",right,"Jun 30, 2027",€300k,681
+361914,Nayef Aguerd,Centre-Back,28,Morocco,"1,90m",left,"Jun 30, 2025",€35.00m,681
+355628,Igor Zubeldia,Centre-Back,27,Spain,"1,81m",right,"Jun 30, 2029",€22.00m,681
+580560,Jon Pacheco,Centre-Back,23,Spain,"1,84m",left,"Jun 30, 2027",€15.00m,681
+229804,Aritz Elustondo,Centre-Back,30,Spain,"1,80m",right,"Jun 30, 2026",€5.00m,681
+1018938,Jon Martín,Centre-Back,18,Spain,"1,87m",right,"Jun 30, 2030",€2.00m,681
+517842,Aihen Muñoz,Left-Back,27,Spain,"1,75m",left,"Jun 30, 2027",€8.00m,681
+568158,Javi López,Left-Back,22,Spain,"1,83m",left,"Jun 30, 2030",€7.50m,681
+297070,Hamari Traoré,Right-Back,32,Mali,"1,75m",right,"Jun 30, 2025",€6.00m,681
+661145,Jon Aramburu,Right-Back,22,"Venezuela, Spain","1,76m",right,"Jun 30, 2027",€5.00m,681
+280730,Álvaro Odriozola,Right-Back,28,Spain,"1,76m",right,"Jun 30, 2029",€2.50m,681
+423440,Martín Zubimendi,Defensive Midfield,25,Spain,"1,81m",right,"Jun 30, 2027",€50.00m,681
+625651,Urko González de Zarate,Defensive Midfield,23,Spain,"1,89m",right,"Jun 30, 2028",€1.20m,681
+634431,Beñat Turrientes,Central Midfield,22,Spain,"1,81m",right,"Jun 30, 2027",€20.00m,681
+502722,Luka Sucic,Central Midfield,22,Croatia,"1,85m",left,"Jun 30, 2029",€15.00m,681
+625660,Jon Ander Olasagasti,Central Midfield,24,Spain,"1,76m",left,"Jun 30, 2025",€1.20m,681
+309110,Brais Méndez,Attacking Midfield,27,Spain,"1,84m",left,"Jun 30, 2028",€40.00m,681
+555143,Arsen Zakharyan,Attacking Midfield,21,Russia,"1,83m",right,"Jun 30, 2029",€18.00m,681
+907813,Pablo Marín,Attacking Midfield,21,Spain,"1,78m",right,"Jun 30, 2027",€1.50m,681
+625655,Jon Magunazelaia,Attacking Midfield,23,Spain,"1,80m",right,"Jun 30, 2026",€1.00m,681
+616369,Ander Barrenetxea,Left Winger,22,Spain,"1,75m",right,"Jun 30, 2030",€20.00m,681
+188888,Sheraldo Becker,Left Winger,29,"Suriname, Netherlands","1,80m",right,"Jun 30, 2026",€10.00m,681
+405398,Takefusa Kubo,Right Winger,23,Japan,"1,73m",left,"Jun 30, 2029",€50.00m,681
+366930,Sergio Gómez,Right Winger,24,Spain,"1,71m",left,"Jun 30, 2030",€10.00m,681
+351478,Mikel Oyarzabal,Centre-Forward,27,Spain,"1,81m",left,"Jun 30, 2028",€45.00m,681
+337715,Umar Sadiq,Centre-Forward,27,Nigeria,"1,91m",right,"Jun 30, 2028",€10.00m,681
+660438,Orri Óskarsson,Centre-Forward,20,Iceland,"1,86m",right,"Jun 30, 2030",€5.00m,681
+297194,Iván Villar,Goalkeeper,27,Spain,"1,86m",right,"Jun 30, 2027",€1.20m,940
+64399,Vicente Guaita,Goalkeeper,37,Spain,"1,90m",right,"Jun 30, 2025",€800k,940
+258987,Carl Starfelt,Centre-Back,29,Sweden,"1,87m",right,"Jun 30, 2027",€6.00m,940
+358250,Joseph Aidoo,Centre-Back,29,Ghana,"1,81m",right,"Jun 30, 2026",€4.00m,940
+636093,Carlos Domínguez,Centre-Back,23,Spain,"1,87m",left,"Jun 30, 2026",€3.00m,940
+112515,Marcos Alonso,Left-Back,33,Spain,"1,88m",left,"Jun 30, 2025",€2.00m,940
+271455,Mihailo Ristic,Left-Back,28,"Serbia, Bosnia-Herzegovina","1,80m",left,"Jun 30, 2026",€1.00m,940
+331505,Óscar Mingueza,Right-Back,25,Spain,"1,84m",right,"Jun 30, 2026",€8.00m,940
+162029,Javier Manquillo,Right-Back,30,Spain,"1,78m",right,"Jun 30, 2025",€1.80m,940
+545647,Sergio Carreira,Right-Back,23,Spain,"1,70m",right,"Jun 30, 2025",€1.20m,940
+1076815,Javi Rodríguez,Right-Back,21,Spain,N/A,N/A,"Jun 30, 2025",€250k,940
+366948,Jailson,Defensive Midfield,29,Brazil,"1,87m",right,"Jun 30, 2025",€1.50m,940
+715628,Damián Rodríguez,Defensive Midfield,21,Spain,"1,80m",left,"Jun 30, 2028",€500k,940
+423444,Fran Beltrán,Central Midfield,25,Spain,"1,65m",right,"Jun 30, 2026",€6.00m,940
+617074,Ilaix Moriba,Central Midfield,21,"Guinea, Spain","1,85m",right,"Jun 30, 2025",€3.00m,940
+315762,Luca de la Torre,Central Midfield,26,"United States, Spain","1,77m",right,"Jun 30, 2026",€3.00m,940
+892221,Hugo Sotelo,Central Midfield,20,Spain,"1,80m",right,"Jun 30, 2025",€2.50m,940
+764859,Williot Swedberg,Attacking Midfield,20,Sweden,"1,87m",right,"Jun 30, 2027",€5.00m,940
+292818,Jonathan Bamba,Left Winger,28,"Cote d'Ivoire, France","1,75m",right,"Jun 30, 2026",€9.00m,940
+341110,Franco Cervi,Left Winger,30,"Argentina, Italy","1,66m",left,"Jun 30, 2026",€1.50m,940
+892929,Hugo Álvarez,Left Winger,21,Spain,"1,76m",right,"Jun 30, 2025",€1.50m,940
+357628,Alfon González,Left Winger,25,Spain,"1,72m",N/A,"Jun 30, 2025",€300k,940
+872184,Tadeo Allende,Right Winger,25,"Argentina, Italy","1,83m",right,"Jun 30, 2028",€4.00m,940
+523318,Anastasios Douvikas,Centre-Forward,25,Greece,"1,86m",right,"Jun 30, 2028",€6.00m,940
+278359,Borja Iglesias,Centre-Forward,31,Spain,"1,87m",right,"Jun 30, 2025",€5.00m,940
+72047,Iago Aspas,Centre-Forward,37,Spain,"1,76m",left,"Jun 30, 2025",€3.00m,940
+905997,Pablo Durán,Centre-Forward,23,Spain,"1,76m",right,"Jun 30, 2027",€300k,940
+251892,Juan Soriano,Goalkeeper,27,Spain,"1,85m",right,"Jun 30, 2027",€1.50m,1244
+94308,Marko Dmitrovic,Goalkeeper,32,Serbia,"1,89m",left,"Jun 30, 2025",€900k,1244
+1055833,Alvin Abajas,Goalkeeper,21,Spain,N/A,N/A,"Jun 30, 2025",€25k,1244
+491616,Jackson Porozo,Centre-Back,24,Ecuador,"1,92m",right,"Jun 30, 2025",€3.30m,1244
+308989,Sergio González,Centre-Back,32,Spain,"1,89m",right,"Jun 30, 2025",€1.80m,1244
+340339,Jorge Sáenz,Centre-Back,27,Spain,"1,88m",right,"Jun 30, 2025",€1.50m,1244
+143559,Matija Nastasic,Centre-Back,31,Serbia,"1,88m",left,"Jun 30, 2026",€1.50m,1244
+422466,Javi Hernández,Left-Back,26,Spain,"1,80m",left,"Jun 30, 2027",€2.50m,1244
+282700,Enric Franquesa,Left-Back,27,Spain,"1,75m",left,"Jun 30, 2026",€1.50m,1244
+441170,Valentin Rosier,Right-Back,28,"France, Guadeloupe","1,75m",right,"Jun 30, 2025",€4.00m,1244
+466807,Adrià Altimira,Right-Back,23,Spain,"1,70m",right,"Jun 30, 2025",€2.00m,1244
+277137,Renato Tapia,Defensive Midfield,29,"Peru, Netherlands","1,85m",right,"Jun 30, 2026",€5.00m,1244
+469669,Yvan Neyou,Defensive Midfield,27,"Cameroon, France","1,80m",right,"Jun 30, 2025",€2.00m,1244
+401583,Julián Chicco,Defensive Midfield,26,"Argentina, Italy","1,87m",right,"Jun 30, 2025",€1.00m,1244
+95641,Darko Brasanac,Central Midfield,32,Serbia,"1,78m",right,"Jun 30, 2025",€1.40m,1244
+543537,Seydouba Cissé,Central Midfield,23,Guinea,"1,78m",right,"Jun 30, 2026",€1.20m,1244
+284884,Óscar Rodríguez,Attacking Midfield,26,Spain,"1,74m",right,"Jun 30, 2026",€2.50m,1244
+569866,Roberto López,Attacking Midfield,24,Spain,"1,79m",left,"Jun 30, 2027",€2.50m,1244
+223725,Munir El Haddadi,Right Winger,29,"Morocco, Spain","1,77m",left,"Jun 30, 2026",€2.50m,1244
+413262,Dani Raba,Right Winger,28,Spain,"1,85m",left,"Jun 30, 2025",€2.20m,1244
+585700,Juan Cruz,Right Winger,24,"Spain, Argentina","1,80m",left,"Jun 30, 2028",€1.50m,1244
+715683,Naim García,Right Winger,22,Spain,"1,80m",left,"Jun 30, 2027",€500k,1244
+181375,Sébastien Haller,Centre-Forward,30,"Cote d'Ivoire, France","1,90m",right,"Jun 30, 2025",€10.00m,1244
+480883,Miguel de la Fuente,Centre-Forward,25,Spain,"1,82m",right,"Jun 30, 2028",€2.50m,1244
+852727,Diego García,Centre-Forward,24,Spain,"1,88m",right,"Jun 30, 2027",€2.00m,1244
+493513,Karl Hein,Goalkeeper,22,Estonia,"1,93m",right,"Jun 30, 2025",€2.00m,366
+290346,André Ferreira,Goalkeeper,28,Portugal,"1,93m",right,"Jun 30, 2027",€800k,366
+615350,Cenk Özkacar,Centre-Back,23,Türkiye,"1,90m",left,"Jun 30, 2025",€4.00m,366
+298583,Eray Cömert,Centre-Back,26,"Switzerland, Türkiye","1,83m",right,"Jun 30, 2025",€4.00m,366
+340853,Javi Sánchez,Centre-Back,27,Spain,"1,89m",right,"Jun 30, 2026",€1.50m,366
+857832,David Torres,Centre-Back,21,Spain,"1,82m",left,"Jun 30, 2026",€1.00m,366
+358115,Luis Pérez,Right-Back,29,Spain,"1,73m",right,"Jun 30, 2025",€1.60m,366
+468309,Lucas Rosa,Right-Back,24,"Brazil, Italy","1,77m",right,"Jun 30, 2026",€1.20m,366
+388125,Stanko Juric,Defensive Midfield,28,Croatia,"1,88m",right,"Jun 30, 2027",€2.20m,366
+226261,César de la Hoz,Defensive Midfield,32,Spain,"1,79m",right,"Jun 30, 2025",€1.00m,366
+948273,Mario Martín,Defensive Midfield,20,Spain,"1,77m",right,"Jun 30, 2025",€300k,366
+527698,Kike Pérez,Central Midfield,27,Spain,"1,84m",left,"Jun 30, 2025",€3.00m,366
+658269,Víctor Meseguer,Central Midfield,25,Spain,"1,84m",right,"Jun 30, 2029",€2.20m,366
+377219,Selim Amallah,Attacking Midfield,27,"Morocco, Belgium","1,85m",right,"Jun 30, 2027",€1.50m,366
+327126,Anuar,Attacking Midfield,29,"Morocco, Spain","1,73m",right,"Jun 30, 2025",€900k,366
+926763,Chuki,Attacking Midfield,20,Spain,N/A,left,"Jun 30, 2025",€300k,366
+624942,Raúl Moro,Left Winger,21,Spain,"1,69m",right,"Jun 30, 2028",€2.50m,366
+211251,Darwin Machís,Left Winger,31,"Venezuela, Spain","1,71m",right,"Jun 30, 2026",€2.00m,366
+281404,Kenedy,Left Winger,28,Brazil,"1,80m",left,"Jun 30, 2027",€2.00m,366
+339820,Amath Ndiaye,Right Winger,28,"Senegal, Spain","1,73m",right,"Jun 30, 2027",€1.50m,366
+221311,Iván Sánchez,Right Winger,32,Spain,"1,69m",left,"Jun 30, 2025",€1.00m,366
+623521,Juanmi Latasa,Centre-Forward,23,Spain,"1,92m",left,"Jun 30, 2029",€2.80m,366
+481084,Marcos André,Centre-Forward,27,"Brazil, Spain","1,85m",right,"Jun 30, 2029",€2.00m,366
+166683,Mamadou Sylla,Centre-Forward,30,"Senegal, Spain","1,80m",right,"Jun 30, 2026",€1.50m,366
+226012,David Soria,Goalkeeper,31,Spain,"1,92m",right,"Jun 30, 2026",€5.00m,3709
+339079,Jiri Letacek,Goalkeeper,25,Czech Republic,"1,96m",right,"Jun 30, 2028",€600k,3709
+353032,Omar Alderete,Centre-Back,27,Paraguay,"1,88m",left,"Jun 30, 2028",€5.00m,3709
+221150,Djené,Centre-Back,32,Togo,"1,78m",right,"Jun 30, 2025",€2.50m,3709
+257376,Domingos Duarte,Centre-Back,29,Portugal,"1,92m",right,"Jun 30, 2026",€2.00m,3709
+461843,Juan Berrocal,Centre-Back,25,Spain,"1,87m",both,"Jun 30, 2027",€1.00m,3709
+908621,Nabil Aberdin,Centre-Back,22,"Morocco, France","1,92m",right,"Jun 30, 2025",€100k,3709
+249513,Diego Rico,Left-Back,31,Spain,"1,83m",left,"Jun 30, 2026",€1.50m,3709
+268506,Fabrizio Angileri,Left-Back,30,"Argentina, Italy","1,85m",left,"Jun 30, 2026",€1.00m,3709
+390688,Juan Iglesias,Right-Back,26,Spain,"1,87m",right,"Jun 30, 2026",€2.50m,3709
+290249,Mauro Arambarri,Central Midfield,28,"Uruguay, Spain","1,75m",right,"Jun 30, 2028",€5.00m,3709
+281989,Luis Milla,Central Midfield,29,Spain,"1,75m",right,"Jun 30, 2027",€3.50m,3709
+284854,Carles Aleñá,Central Midfield,26,Spain,"1,80m",left,"Jun 30, 2026",€3.00m,3709
+941869,Yellu Santiago,Central Midfield,20,Spain,"1,92m",right,"Jun 30, 2025",€1.00m,3709
+841121,John Patrick,Central Midfield,21,"Ireland, Spain","1,92m",right,"Jun 30, 2025",€200k,3709
+1124005,Chrisantus Uche,Attacking Midfield,21,Nigeria,"1,90m",both,"Jun 30, 2028",€400k,3709
+434990,Álex Sola,Right Winger,25,Spain,"1,78m",right,"Jun 30, 2027",€4.00m,3709
+710004,Peter Federico,Right Winger,22,"Dominican Republic, Spain","1,80m",left,"Jun 30, 2028",€3.00m,3709
+282810,Carles Pérez,Right Winger,26,Spain,"1,73m",left,"Jun 30, 2025",€2.50m,3709
+298976,Borja Mayoral,Centre-Forward,27,Spain,"1,82m",right,"Jun 30, 2027",€15.00m,3709
+672803,Bertuğ Yıldırım,Centre-Forward,22,Türkiye,"1,91m",right,"Jun 30, 2025",€3.50m,3709
+948275,Álvaro Rodríguez,Centre-Forward,20,"Uruguay, Spain","1,93m",left,"Jun 30, 2025",€3.50m,3709
+238223,Ederson,Goalkeeper,31,"Brazil, Portugal","1,88m",left,"Jun 30, 2026",€35.00m,281
+85941,Stefan Ortega,Goalkeeper,31,"Germany, Spain","1,85m",right,"Jun 30, 2026",€9.00m,281
+14555,Scott Carson,Goalkeeper,39,England,"1,88m",right,"Jun 30, 2025",€200k,281
+258004,Rúben Dias,Centre-Back,27,Portugal,"1,87m",right,"Jun 30, 2027",€80.00m,281
+284730,Manuel Akanji,Centre-Back,29,"Switzerland, Nigeria","1,88m",right,"Jun 30, 2027",€45.00m,281
+177476,Nathan Aké,Centre-Back,29,"Netherlands, Cote d'Ivoire","1,80m",left,"Jun 30, 2027",€40.00m,281
+186590,John Stones,Centre-Back,30,England,"1,88m",right,"Jun 30, 2026",€38.00m,281
+475959,Josko Gvardiol,Left-Back,22,Croatia,"1,85m",left,"Jun 30, 2028",€75.00m,281
+576121,Josh Wilson-Esbrand,Left-Back,21,"England, Jamaica","1,76m",left,"Jun 30, 2027",€4.00m,281
+701057,Rico Lewis,Right-Back,19,England,"1,69m",right,"Jun 30, 2028",€38.00m,281
+95424,Kyle Walker,Right-Back,34,England,"1,78m",right,"Jun 30, 2026",€13.00m,281
+357565,Rodri,Defensive Midfield,28,Spain,"1,91m",right,"Jun 30, 2027",€130.00m,281
+601883,Matheus Nunes,Central Midfield,26,"Portugal, Brazil","1,83m",right,"Jun 30, 2028",€50.00m,281
+51471,Mateo Kovacic,Central Midfield,30,Croatia,"1,77m",right,"Jun 30, 2027",€30.00m,281
+53622,İlkay Gündoğan,Central Midfield,33,Germany,"1,80m",right,"Jun 30, 2025",€15.00m,281
+583199,James McAtee,Central Midfield,21,England,"1,80m",left,"Jun 30, 2026",€12.00m,281
+241641,Bernardo Silva,Attacking Midfield,30,Portugal,"1,73m",left,"Jun 30, 2026",€70.00m,281
+88755,Kevin De Bruyne,Attacking Midfield,33,Belgium,"1,81m",right,"Jun 30, 2025",€50.00m,281
+486049,Jérémy Doku,Left Winger,22,"Belgium, Ghana","1,73m",right,"Jun 30, 2028",€65.00m,281
+203460,Jack Grealish,Left Winger,29,"England, Ireland","1,80m",right,"Jun 30, 2027",€60.00m,281
+406635,Phil Foden,Right Winger,24,England,"1,71m",left,"Jun 30, 2027",€150.00m,281
+743591,Savinho,Right Winger,20,Brazil,"1,76m",left,"Jun 30, 2029",€50.00m,281
+661207,Oscar Bobb,Right Winger,21,"Norway, The Gambia","1,75m",left,"Jun 30, 2029",€25.00m,281
+418560,Erling Haaland,Centre-Forward,24,Norway,"1,95m",left,"Jun 30, 2027",€180.00m,281
+275218,Augusto Batalla,Goalkeeper,28,"Argentina, Italy","1,86m",right,"Jun 30, 2025",€5.00m,367
+397676,Dani Cárdenas,Goalkeeper,27,Spain,"1,86m",right,"Jun 30, 2027",€1.80m,367
+127108,Florian Lejeune,Centre-Back,33,France,"1,90m",right,"Jun 30, 2027",€3.00m,367
+451801,Abdul Mumin,Centre-Back,26,"Ghana, Nigeria","1,88m",right,"Jun 30, 2026",€2.50m,367
+82503,Aridane Hernández,Centre-Back,35,Spain,"1,88m",right,"Jun 30, 2025",€800k,367
+692208,Pelayo Fernández,Centre-Back,21,Spain,"1,93m",right,"Jun 30, 2028",€150k,367
+311044,Alfonso Espino,Left-Back,32,"Uruguay, Spain","1,72m",left,"Jun 30, 2026",€2.40m,367
+596122,Pep Chavarría,Left-Back,26,Spain,"1,74m",left,"Jun 30, 2027",€2.00m,367
+527966,Andrei Rațiu,Right-Back,26,"Romania, Spain","1,83m",right,"Jun 30, 2028",€3.00m,367
+85295,Iván Balliu,Right-Back,32,"Albania, Spain","1,72m",right,"Jun 30, 2025",€2.00m,367
+268670,Gerard Gumbau,Defensive Midfield,29,Spain,"1,88m",left,"Jun 30, 2025",€3.00m,367
+517753,Óscar Valentín,Central Midfield,30,Spain,"1,77m",right,"Jun 30, 2027",€4.00m,367
+192009,Unai López,Central Midfield,28,Spain,"1,70m",right,"Jun 30, 2026",€3.00m,367
+363057,Pedro Díaz,Central Midfield,26,Spain,"1,80m",right,"Jun 30, 2028",€2.50m,367
+525578,Pathé Ciss,Central Midfield,30,Senegal,"1,86m",right,"Jun 30, 2025",€2.50m,367
+88103,James Rodríguez,Attacking Midfield,33,"Colombia, Spain","1,80m",left,"Jun 30, 2025",€5.00m,367
+560483,Randy Nteka,Attacking Midfield,26,"Angola, France","1,89m",left,"Jun 30, 2026",€1.50m,367
+343273,Joni Montiel,Attacking Midfield,26,Spain,"1,73m",left,"Jun 30, 2025",€1.20m,367
+30321,Óscar Trejo,Attacking Midfield,36,"Argentina, Italy","1,80m",right,"Jun 30, 2025",€1.00m,367
+257062,Álvaro García,Left Winger,31,Spain,"1,67m",both,"Jun 30, 2026",€3.00m,367
+362086,Isi Palazón,Right Winger,29,Spain,"1,69m",left,"Jun 30, 2028",€8.00m,367
+455181,Jorge de Frutos,Right Winger,27,Spain,"1,73m",right,"Jun 30, 2028",€4.00m,367
+288318,Adrián Embarba,Right Winger,32,Spain,"1,73m",right,"Jun 30, 2025",€1.80m,367
+505674,Sergio Camello,Centre-Forward,23,Spain,"1,82m",right,"Jun 30, 2027",€3.00m,367
+162038,Raúl de Tomás,Centre-Forward,29,"Spain, Dominican Republic","1,80m",right,"Jun 30, 2027",€2.00m,367
+256429,Sergi Guardiola,Centre-Forward,33,Spain,"1,85m",left,"Jun 30, 2025",€800k,367
+74857,Marc-André ter Stegen,Goalkeeper,32,Germany,"1,87m",right,"Jun 30, 2028",€28.00m,131
+283170,Iñaki Peña,Goalkeeper,25,Spain,"1,84m",right,"Jun 30, 2026",€8.00m,131
+709955,Ander Astralaga,Goalkeeper,20,Spain,"1,90m",right,"Jun 30, 2026",€1.00m,131
+480267,Ronald Araujo,Centre-Back,25,"Uruguay, Spain","1,92m",right,"Jun 30, 2026",€70.00m,131
+196948,Andreas Christensen,Centre-Back,28,Denmark,"1,87m",right,"Jun 30, 2026",€40.00m,131
+962110,Pau Cubarsí,Centre-Back,17,Spain,"1,84m",right,"Jun 30, 2027",€30.00m,131
+466794,Eric García,Centre-Back,23,Spain,"1,82m",right,"Jun 30, 2026",€20.00m,131
+158863,Iñigo Martínez,Centre-Back,33,Spain,"1,82m",left,"Jun 30, 2025",€5.00m,131
+636688,Alejandro Balde,Left-Back,20,"Spain, Dominican Republic","1,75m",left,"Jun 30, 2028",€40.00m,131
+705395,Gerard Martín,Left-Back,22,Spain,"1,86m",left,"Jun 30, 2025",€400k,131
+411975,Jules Koundé,Right-Back,25,"France, Benin","1,80m",right,"Jun 30, 2027",€45.00m,131
+937955,Héctor Fort,Right-Back,18,Spain,"1,85m",right,"Jun 30, 2026",€10.00m,131
+636695,Marc Casadó,Defensive Midfield,21,Spain,"1,72m",right,"Jun 30, 2028",€2.50m,131
+1018920,Marc Bernal,Defensive Midfield,17,Spain,"1,91m",left,"Jun 30, 2026",€1.00m,131
+646740,Gavi,Central Midfield,20,Spain,"1,73m",right,"Jun 30, 2026",€90.00m,131
+683840,Pedri,Central Midfield,21,Spain,"1,74m",right,"Jun 30, 2026",€80.00m,131
+326330,Frenkie de Jong,Central Midfield,27,Netherlands,"1,81m",right,"Jun 30, 2026",€70.00m,131
+636703,Fermín López,Central Midfield,21,Spain,"1,74m",right,"Jun 30, 2027",€30.00m,131
+293385,Dani Olmo,Attacking Midfield,26,Spain,"1,79m",right,"Jun 30, 2030",€60.00m,131
+720038,Pablo Torre,Attacking Midfield,21,Spain,"1,73m",right,"Jun 30, 2026",€3.00m,131
+466810,Ansu Fati,Left Winger,21,"Spain, Guinea-Bissau","1,78m",right,"Jun 30, 2027",€25.00m,131
+937958,Lamine Yamal,Right Winger,17,"Spain, Equatorial Guinea","1,80m",left,"Jun 30, 2026",€120.00m,131
+411295,Raphinha,Right Winger,27,"Brazil, Italy","1,76m",left,"Jun 30, 2027",€50.00m,131
+398184,Ferran Torres,Right Winger,24,Spain,"1,84m",right,"Jun 30, 2027",€30.00m,131
+38253,Robert Lewandowski,Centre-Forward,36,Poland,"1,85m",right,"Jun 30, 2026",€15.00m,131
+707572,Pau Víctor,Centre-Forward,22,Spain,"1,84m",right,"Jun 30, 2029",€1.50m,131
+403151,Robert Sánchez,Goalkeeper,26,"Spain, England","1,97m",right,"Jun 30, 2030",€20.00m,631
+585323,Filip Jørgensen,Goalkeeper,22,"Denmark, Sweden","1,90m",right,"Jun 30, 2031",€20.00m,631
+116648,Marcus Bettinelli,Goalkeeper,32,"England, Italy","1,93m",right,"Jun 30, 2026",€1.00m,631
+490606,Lucas Bergström,Goalkeeper,22,Finland,"2,05m",right,"Jun 30, 2025",€700k,631
+614258,Levi Colwill,Centre-Back,21,England,"1,87m",left,"Jun 30, 2029",€50.00m,631
+386047,Axel Disasi,Centre-Back,26,"France, DR Congo","1,90m",right,"Jun 30, 2029",€40.00m,631
+463603,Benoît Badiashile,Centre-Back,23,"France, DR Congo","1,94m",left,"Jun 30, 2030",€30.00m,631
+475411,Wesley Fofana,Centre-Back,23,"France, Cote d'Ivoire","1,86m",right,"Jun 30, 2029",€25.00m,631
+258878,Tosin Adarabioyo,Centre-Back,27,"England, Nigeria","1,96m",right,"Jun 30, 2028",€20.00m,631
+284857,Marc Cucurella,Left-Back,26,Spain,"1,73m",left,"Jun 30, 2028",€30.00m,631
+316125,Ben Chilwell,Left-Back,27,"England, New Zealand","1,80m",left,"Jun 30, 2027",€28.00m,631
+805714,Renato Veiga,Left-Back,21,Portugal,"1,90m",left,"Jun 30, 2031",€3.00m,631
+472423,Reece James,Right-Back,24,England,"1,80m",right,"Jun 30, 2028",€40.00m,631
+620322,Malo Gusto,Right-Back,21,"France, Martinique","1,78m",right,"Jun 30, 2030",€35.00m,631
+687626,Moisés Caicedo,Defensive Midfield,22,Ecuador,"1,78m",right,"Jun 30, 2031",€75.00m,631
+628451,Roméo Lavia,Defensive Midfield,20,Belgium,"1,81m",right,"Jun 30, 2030",€35.00m,631
+648195,Enzo Fernández,Central Midfield,23,Argentina,"1,78m",right,"Jun 30, 2032",€75.00m,631
+475188,Kiernan Dewsbury-Hall,Central Midfield,26,England,"1,78m",left,"Jun 30, 2029",€30.00m,631
+659459,Carney Chukwuemeka,Central Midfield,20,"England, Nigeria","1,87m",right,"Jun 30, 2028",€15.00m,631
+622380,Cesare Casadei,Central Midfield,21,Italy,"1,85m",right,"Jun 30, 2028",€10.00m,631
+568177,Cole Palmer,Attacking Midfield,22,England,"1,89m",left,"Jun 30, 2033",€80.00m,631
+344381,Christopher Nkunku,Attacking Midfield,26,"France, DR Congo","1,77m",right,"Jun 30, 2029",€65.00m,631
+537860,Mykhaylo Mudryk,Left Winger,23,Ukraine,"1,75m",right,"Jun 30, 2031",€35.00m,631
+462250,João Félix,Left Winger,24,Portugal,"1,81m",right,"Jun 30, 2031",€30.00m,631
+401173,Jadon Sancho,Left Winger,24,"England, Jamaica","1,80m",right,"Jun 30, 2025",€30.00m,631
+487465,Pedro Neto,Right Winger,24,Portugal,"1,73m",left,"Jun 30, 2031",€55.00m,631
+503987,Noni Madueke,Right Winger,22,"England, Nigeria","1,82m",left,"Jun 30, 2030",€28.00m,631
+776890,Nicolas Jackson,Centre-Forward,23,"Senegal, The Gambia","1,88m",right,"Jun 30, 2033",€35.00m,631
+938158,Marc Guiu,Centre-Forward,18,Spain,"1,87m",right,"Jun 30, 2029",€7.50m,631
+105470,Alisson,Goalkeeper,31,Brazil,"1,93m",right,"Jun 30, 2027",€28.00m,31
+340918,Caoimhín Kelleher,Goalkeeper,25,Ireland,"1,88m",right,"Jun 30, 2026",€20.00m,31
+486604,Vitezslav Jaros,Goalkeeper,23,Czech Republic,"1,90m",right,"Jun 30, 2025",€5.00m,31
+357119,Ibrahima Konaté,Centre-Back,25,"France, Mali","1,94m",right,"Jun 30, 2026",€45.00m,31
+139208,Virgil van Dijk,Centre-Back,33,"Netherlands, Suriname","1,95m",right,"Jun 30, 2025",€30.00m,31
+256178,Joe Gomez,Centre-Back,27,"England, The Gambia","1,88m",right,"Jun 30, 2027",€28.00m,31
+632349,Jarell Quansah,Centre-Back,21,"England, Scotland","1,90m",right,"Jun 30, 2027",€22.00m,31
+234803,Andrew Robertson,Left-Back,30,Scotland,"1,78m",left,"Jun 30, 2026",€30.00m,31
+338070,Konstantinos Tsimikas,Left-Back,28,Greece,"1,79m",left,"Jun 30, 2027",€22.00m,31
+314353,Trent Alexander-Arnold,Right-Back,25,England,"1,75m",right,"Jun 30, 2025",€70.00m,31
+624258,Conor Bradley,Right-Back,21,Northern Ireland,"1,81m",right,"Jun 30, 2027",€15.00m,31
+146310,Wataru Endo,Defensive Midfield,31,Japan,"1,78m",right,"Jun 30, 2027",€13.00m,31
+451276,Dominik Szoboszlai,Central Midfield,23,Hungary,"1,87m",right,"Jun 30, 2028",€75.00m,31
+534033,Alexis Mac Allister,Central Midfield,25,"Argentina, Italy","1,76m",right,"Jun 30, 2028",€75.00m,31
+433188,Curtis Jones,Central Midfield,23,England,"1,85m",right,"Jun 30, 2027",€35.00m,31
+565822,Harvey Elliott,Central Midfield,21,England,"1,70m",left,"Jun 30, 2027",€35.00m,31
+478573,Ryan Gravenberch,Central Midfield,22,"Netherlands, Suriname","1,90m",right,"Jun 30, 2028",€35.00m,31
+480692,Luis Díaz,Left Winger,27,Colombia,"1,80m",right,"Jun 30, 2027",€75.00m,31
+434675,Cody Gakpo,Left Winger,25,"Netherlands, Togo","1,93m",right,"Jun 30, 2028",€55.00m,31
+341092,Federico Chiesa,Left Winger,26,Italy,"1,75m",right,"Jun 30, 2028",€35.00m,31
+148455,Mohamed Salah,Right Winger,32,Egypt,"1,75m",left,"Jun 30, 2025",€55.00m,31
+546543,Darwin Núñez,Centre-Forward,25,Uruguay,"1,87m",right,"Jun 30, 2028",€70.00m,31
+340950,Diogo Jota,Centre-Forward,27,Portugal,"1,78m",right,"Jun 30, 2027",€50.00m,31
+234509,André Onana,Goalkeeper,28,Cameroon,"1,90m",right,"Jun 30, 2028",€35.00m,985
+336077,Altay Bayındır,Goalkeeper,26,Türkiye,"1,98m",right,"Jun 30, 2027",€10.00m,985
+34130,Tom Heaton,Goalkeeper,38,England,"1,88m",right,"Jun 30, 2025",€250k,985
+326031,Matthijs de Ligt,Centre-Back,25,Netherlands,"1,89m",right,"Jun 30, 2029",€65.00m,985
+480762,Lisandro Martínez,Centre-Back,26,Argentina,"1,75m",left,"Jun 30, 2027",€50.00m,985
+923831,Leny Yoro,Centre-Back,18,"France, Cote d'Ivoire","1,90m",right,"Jun 30, 2029",€50.00m,985
+177907,Harry Maguire,Centre-Back,31,England,"1,94m",right,"Jun 30, 2025",€18.00m,985
+184573,Victor Lindelöf,Centre-Back,30,Sweden,"1,87m",right,"Jun 30, 2025",€15.00m,985
+42412,Jonny Evans,Centre-Back,36,Northern Ireland,"1,88m",both,"Jun 30, 2025",€2.00m,985
+183288,Luke Shaw,Left-Back,29,England,"1,78m",left,"Jun 30, 2027",€32.00m,985
+339340,Tyrell Malacia,Left-Back,25,"Netherlands, Curacao","1,69m",left,"Jun 30, 2026",€18.00m,985
+357147,Diogo Dalot,Right-Back,25,Portugal,"1,83m",right,"Jun 30, 2028",€35.00m,985
+340456,Noussair Mazraoui,Right-Back,26,"Morocco, Netherlands","1,83m",right,"Jun 30, 2028",€30.00m,985
+476701,Manuel Ugarte,Defensive Midfield,23,Uruguay,"1,82m",right,"Jun 30, 2029",€45.00m,985
+16306,Casemiro,Defensive Midfield,32,"Brazil, Spain","1,85m",right,"Jun 30, 2026",€20.00m,985
+654253,Toby Collyer,Defensive Midfield,20,England,"1,80m",right,"Jun 30, 2027",€200k,985
+820374,Kobbie Mainoo,Central Midfield,19,"England, Ghana","1,80m",right,"Jun 30, 2027",€55.00m,985
+69633,Christian Eriksen,Central Midfield,32,Denmark,"1,82m",right,"Jun 30, 2025",€8.00m,985
+747153,Daniel Gore,Central Midfield,20,England,N/A,right,"Jun 30, 2026",€900k,985
+240306,Bruno Fernandes,Attacking Midfield,30,Portugal,"1,79m",right,"Jun 30, 2027",€70.00m,985
+346483,Mason Mount,Attacking Midfield,25,England,"1,81m",right,"Jun 30, 2028",€35.00m,985
+258923,Marcus Rashford,Left Winger,26,"England, St. Kitts & Nevis","1,85m",right,"Jun 30, 2028",€60.00m,985
+811779,Alejandro Garnacho,Left Winger,20,"Argentina, Spain","1,80m",right,"Jun 30, 2028",€45.00m,985
+602105,Antony,Right Winger,24,Brazil,"1,72m",left,"Jun 30, 2027",€25.00m,985
+536835,Amad Diallo,Right Winger,22,"Cote d'Ivoire, Italy","1,73m",left,"Jun 30, 2025",€18.00m,985
+610442,Rasmus Højlund,Centre-Forward,21,Denmark,"1,91m",left,"Jun 30, 2028",€65.00m,985
+435648,Joshua Zirkzee,Centre-Forward,23,"Netherlands, Nigeria","1,93m",right,"Jun 30, 2029",€50.00m,985
+888639,Ethan Wheatley,Centre-Forward,18,England,"1,87m",N/A,"Jun 30, 2026",N/A,985
+172015,Fernando Pacheco,Goalkeeper,32,Spain,"1,87m",left,"Jun 30, 2026",€2.00m,714
+561613,Joan García,Goalkeeper,23,Spain,"1,91m",right,"Jun 30, 2028",€800k,714
+628487,Ángel Fortuño,Goalkeeper,22,Spain,"1,83m",right,"Jun 30, 2025",€300k,714
+371371,Marash Kumbulla,Centre-Back,24,"Albania, Italy","1,91m",right,"Jun 30, 2025",€4.50m,714
+357884,Fernando Calero,Centre-Back,29,Spain,"1,84m",right,"Jun 30, 2025",€1.80m,714
+102423,Leandro Cabrera,Centre-Back,33,"Uruguay, Spain","1,90m",left,"Jun 30, 2026",€1.20m,714
+92947,Sergi Gómez,Centre-Back,32,Spain,"1,85m",right,"Jun 30, 2025",€1.00m,714
+166677,Brian Oliván,Left-Back,30,Spain,"1,75m",left,"Jun 30, 2025",€2.50m,714
+709372,Carlos Romero,Left-Back,22,Spain,N/A,left,"Jun 30, 2025",€1.50m,714
+290273,Álvaro Tejero,Right-Back,28,Spain,"1,74m",both,"Jun 30, 2025",€2.00m,714
+822331,Omar El Hilali,Right-Back,21,"Morocco, Spain","1,83m",right,"Jun 30, 2027",€2.00m,714
+337333,Alex Král,Defensive Midfield,26,Czech Republic,"1,86m",right,"Jun 30, 2025",€5.00m,714
+449496,Álvaro Aguado,Central Midfield,28,Spain,"1,75m",right,"Jun 30, 2025",€2.80m,714
+506248,Edu Expósito,Central Midfield,28,Spain,"1,78m",right,"Jun 30, 2027",€2.50m,714
+557147,José Gragera,Central Midfield,24,Spain,"1,86m",right,"Jun 30, 2028",€2.50m,714
+412045,Pol Lozano,Central Midfield,24,Spain,"1,76m",right,"Jun 30, 2027",€2.00m,714
+408471,Javi Puado,Left Winger,26,Spain,"1,77m",right,"Jun 30, 2025",€8.00m,714
+508639,Naci Ünüvar,Left Winger,21,"Türkiye, Netherlands","1,68m",right,"Jun 30, 2025",€2.50m,714
+225593,Pere Milla,Left Winger,32,Spain,"1,80m",left,"Jun 30, 2027",€2.40m,714
+628498,Jofre Carreras,Right Winger,23,Spain,"1,75m",right,"Jun 30, 2026",€1.80m,714
+246204,Salvi Sánchez,Right Winger,33,Spain,"1,70m",right,"Jun 30, 2025",€1.20m,714
+834744,Antoniu Roca,Right Winger,22,Spain,N/A,right,"Jun 30, 2025",€200k,714
+888493,Alejo Veliz,Centre-Forward,21,Argentina,"1,86m",right,"Jun 30, 2025",€9.00m,714
+521407,Walid Cheddira,Centre-Forward,26,"Morocco, Italy","1,87m",right,"Jun 30, 2025",€6.00m,714
+342226,Irvin Cardona,Centre-Forward,27,"France, Malta","1,85m",right,"Jun 30, 2025",€2.50m,714
+869458,Omar Sadik,Centre-Forward,20,Morocco,N/A,left,"Jun 30, 2027",€300k,714
+286047,Guglielmo Vicario,Goalkeeper,27,Italy,"1,94m",right,"Jun 30, 2028",€35.00m,148
+52570,Fraser Forster,Goalkeeper,36,England,"2,01m",right,"Jun 30, 2025",€1.20m,148
+428016,Brandon Austin,Goalkeeper,25,"England, United States","1,88m",right,"Jun 30, 2029",€600k,148
+282823,Alfie Whiteman,Goalkeeper,25,England,"1,88m",right,"Jun 30, 2025",€500k,148
+355915,Cristian Romero,Centre-Back,26,Argentina,"1,85m",right,"Jun 30, 2027",€65.00m,148
+557459,Micky van de Ven,Centre-Back,23,Netherlands,"1,93m",left,"Jun 30, 2029",€55.00m,148
+568559,Radu Drăgușin,Centre-Back,22,Romania,"1,91m",right,"Jun 30, 2030",€25.00m,148
+192765,Ben Davies,Centre-Back,31,Wales,"1,81m",left,"Jun 30, 2025",€10.00m,148
+556385,Destiny Udogie,Left-Back,21,"Italy, Nigeria","1,88m",left,"Jun 30, 2030",€45.00m,148
+282429,Sergio Reguilón,Left-Back,27,Spain,"1,78m",left,"Jun 30, 2025",€12.00m,148
+553875,Pedro Porro,Right-Back,25,Spain,"1,73m",right,"Jun 30, 2028",€45.00m,148
+483348,Djed Spence,Right-Back,24,"England, Jamaica","1,84m",right,"Jun 30, 2027",€8.00m,148
+410425,Yves Bissouma,Defensive Midfield,28,"Mali, Cote d'Ivoire","1,82m",right,"Jun 30, 2026",€35.00m,148
+354362,Rodrigo Bentancur,Defensive Midfield,27,Uruguay,"1,87m",right,"Jun 30, 2026",€35.00m,148
+568693,Pape Matar Sarr,Central Midfield,22,Senegal,"1,84m",right,"Jun 30, 2030",€45.00m,148
+922693,Archie Gray,Central Midfield,18,"England, Scotland","1,87m",right,"Jun 30, 2030",€18.00m,148
+294057,James Maddison,Attacking Midfield,27,England,"1,75m",right,"Jun 30, 2028",€70.00m,148
+431755,Dejan Kulusevski,Attacking Midfield,24,"Sweden, North Macedonia","1,86m",left,"Jun 30, 2028",€55.00m,148
+866246,Lucas Bergvall,Attacking Midfield,18,Sweden,"1,87m",right,"Jun 30, 2029",€10.00m,148
+91845,Heung-min Son,Left Winger,32,"Korea, South","1,84m",both,"Jun 30, 2025",€45.00m,148
+170527,Timo Werner,Left Winger,28,Germany,"1,80m",right,"Jun 30, 2025",€17.00m,148
+470607,Brennan Johnson,Right Winger,23,"Wales, England","1,86m",right,"Jun 30, 2028",€48.00m,148
+743498,Wilson Odobert,Right Winger,19,"France, Martinique","1,82m",right,"Jun 30, 2029",€10.00m,148
+258889,Dominic Solanke,Centre-Forward,27,"England, Nigeria","1,86m",right,"Jun 30, 2030",€40.00m,148
+378710,Richarlison,Centre-Forward,27,Brazil,"1,84m",right,"Jun 30, 2027",€38.00m,148
+192080,Nick Pope,Goalkeeper,32,England,"1,98m",right,"Jun 30, 2026",€16.00m,762
+124419,Odysseas Vlachodimos,Goalkeeper,30,"Greece, Germany","1,91m",right,N/A,€7.00m,762
+74960,Martin Dúbravka,Goalkeeper,35,Slovakia,"1,91m",right,"Jun 30, 2025",€1.00m,762
+142389,Mark Gillespie,Goalkeeper,32,England,"1,91m",right,"Jun 30, 2025",€300k,762
+29712,John Ruddy,Goalkeeper,37,England,"1,92m",right,"Jun 30, 2025",€200k,762
+361093,Sven Botman,Centre-Back,24,Netherlands,"1,95m",left,"Jun 30, 2027",€45.00m,762
+480116,Lloyd Kelly,Centre-Back,25,England,"1,90m",left,"Jun 30, 2029",€18.00m,762
+135343,Fabian Schär,Centre-Back,32,Switzerland,"1,86m",right,"Jun 30, 2025",€10.00m,762
+134270,Dan Burn,Centre-Back,32,England,"2,01m",left,"Jun 30, 2025",€8.00m,762
+183318,Jamaal Lascelles,Centre-Back,30,"England, Barbados","1,88m",right,"Jun 30, 2025",€7.00m,762
+670858,Lewis Hall,Left-Back,20,England,"1,79m",left,N/A,€18.00m,762
+250478,Matt Targett,Left-Back,29,"England, Scotland","1,83m",left,"Jun 30, 2026",€10.00m,762
+900601,Alex Murphy,Left-Back,20,Ireland,"1,88m",left,N/A,€250k,762
+503981,Tino Livramento,Right-Back,21,"England, Scotland","1,82m",right,"Jun 30, 2028",€35.00m,762
+95810,Kieran Trippier,Right-Back,34,England,"1,73m",right,"Jun 30, 2026",€10.00m,762
+184528,Emil Krafth,Right-Back,30,Sweden,"1,84m",right,"Jun 30, 2025",€2.50m,762
+520624,Bruno Guimarães,Defensive Midfield,26,"Brazil, Spain","1,82m",right,"Jun 30, 2028",€85.00m,762
+397033,Sandro Tonali,Defensive Midfield,24,Italy,"1,81m",right,"Jun 30, 2028",€38.00m,762
+206225,Isaac Hayden,Defensive Midfield,29,"England, Jamaica","1,87m",right,"Jun 30, 2026",€1.80m,762
+333241,Joelinton,Central Midfield,28,Brazil,"1,86m",right,"Jun 30, 2028",€40.00m,762
+340329,Joe Willock,Central Midfield,25,"England, Montserrat","1,86m",right,"Jun 30, 2027",€30.00m,762
+346707,Sean Longstaff,Central Midfield,26,England,"1,87m",right,"Jun 30, 2025",€25.00m,762
+922769,Lewis Miley,Central Midfield,18,England,"1,89m",right,"Jun 30, 2029",€22.00m,762
+503733,Anthony Gordon,Left Winger,23,England,"1,83m",right,"Jun 30, 2026",€60.00m,762
+398065,Harvey Barnes,Left Winger,26,"England, Scotland","1,82m",right,"Jun 30, 2028",€35.00m,762
+967948,Garang Kuol,Left Winger,20,"Australia, Southern Sudan","1,75m",right,"Jun 30, 2026",€600k,762
+272999,Miguel Almirón,Right Winger,30,Paraguay,"1,74m",left,"Jun 30, 2026",€20.00m,762
+199527,Jacob Murphy,Right Winger,29,"England, Ireland","1,79m",right,"Jun 30, 2027",€15.00m,762
+349066,Alexander Isak,Centre-Forward,25,"Sweden, Eritrea","1,92m",right,"Jun 30, 2028",€75.00m,762
+123682,Callum Wilson,Centre-Forward,32,England,"1,80m",right,"Jun 30, 2025",€13.00m,762
+609556,William Osula,Centre-Forward,21,"Denmark, England","1,86m",right,"Jun 30, 2029",€3.00m,762
+111873,Emiliano Martínez,Goalkeeper,32,"Argentina, Spain","1,95m",right,"Jun 30, 2029",€28.00m,405
+591844,Joe Gauci,Goalkeeper,24,"Australia, New Zealand","1,94m",right,"Jun 30, 2028",€1.50m,405
+75458,Robin Olsen,Goalkeeper,34,"Sweden, Denmark","1,96m",right,"Jun 30, 2025",€1.50m,405
+399776,Pau Torres,Centre-Back,27,Spain,"1,92m",left,"Jun 30, 2028",€45.00m,405
+413403,Ezri Konsa,Centre-Back,26,"England, DR Congo","1,83m",right,"Jun 30, 2028",€35.00m,405
+329145,Diego Carlos,Centre-Back,31,"Brazil, Spain","1,85m",right,"Jun 30, 2026",€16.00m,405
+253677,Tyrone Mings,Centre-Back,31,England,"1,96m",left,"Jun 30, 2026",€13.00m,405
+233124,Kortney Hause,Centre-Back,29,"England, Bermuda","1,91m",left,"Jun 30, 2025",€2.00m,405
+645686,Lamare Bogarde,Centre-Back,20,"Netherlands, Suriname","1,85m",right,N/A,€450k,405
+485585,Ian Maatsen,Left-Back,22,"Netherlands, Suriname","1,78m",left,"Jun 30, 2030",€40.00m,405
+126664,Lucas Digne,Left-Back,31,France,"1,78m",left,"Jun 30, 2026",€12.00m,405
+425334,Matty Cash,Right-Back,27,"Poland, England","1,85m",right,"Jun 30, 2027",€28.00m,405
+848682,Kosta Nedeljkovic,Right-Back,18,Serbia,"1,84m",right,"Jun 30, 2029",€8.00m,405
+485706,Amadou Onana,Defensive Midfield,23,"Belgium, Senegal","1,95m",right,"Jun 30, 2029",€50.00m,405
+394327,Boubacar Kamara,Defensive Midfield,24,"France, Senegal","1,84m",right,"Jun 30, 2027",€38.00m,405
+193116,John McGinn,Central Midfield,29,Scotland,"1,78m",left,"Jun 30, 2027",€30.00m,405
+249565,Youri Tielemans,Central Midfield,27,"Belgium, DR Congo","1,77m",right,"Jun 30, 2027",€25.00m,405
+131978,Ross Barkley,Central Midfield,30,England,"1,89m",right,N/A,€8.00m,405
+503749,Jacob Ramsey,Attacking Midfield,23,England,"1,80m",right,"Jun 30, 2027",€35.00m,405
+321247,Emiliano Buendía,Attacking Midfield,27,"Argentina, Spain","1,72m",right,"Jun 30, 2026",€22.00m,405
+503743,Morgan Rogers,Attacking Midfield,22,England,"1,87m",right,"Jun 30, 2029",€15.00m,405
+665390,Jaden Philogene,Left Winger,22,"England, Dominica","1,81m",right,"Jun 30, 2029",€15.00m,405
+387626,Leon Bailey,Right Winger,27,Jamaica,"1,78m",left,"Jun 30, 2027",€42.00m,405
+324358,Ollie Watkins,Centre-Forward,28,England,"1,80m",right,"Jun 30, 2028",€65.00m,405
+649317,Jhon Durán,Centre-Forward,20,Colombia,"1,85m",left,"Jun 30, 2028",€20.00m,405
+565093,Bart Verbruggen,Goalkeeper,22,Netherlands,"1,94m",right,"Jun 30, 2028",€18.00m,1237
+73564,Jason Steele,Goalkeeper,34,England,"1,88m",right,"Jun 30, 2026",€3.50m,1237
+212847,Adam Webster,Centre-Back,29,England,"1,90m",right,"Jun 30, 2026",€20.00m,1237
+576314,Jan Paul van Hecke,Centre-Back,24,Netherlands,"1,89m",right,"Jun 30, 2027",€18.00m,1237
+380350,Igor,Centre-Back,26,Brazil,"1,88m",left,"Jun 30, 2027",€17.00m,1237
+148153,Lewis Dunk,Centre-Back,32,England,"1,92m",right,"Jun 30, 2026",€12.00m,1237
+369316,Ferdi Kadıoğlu,Left-Back,24,"Türkiye, Netherlands","1,74m",right,"Jun 30, 2028",€30.00m,1237
+349599,Pervis Estupiñán,Left-Back,26,"Ecuador, Spain","1,75m",left,"Jun 30, 2027",€30.00m,1237
+565846,Imari Samuels,Left-Back,21,"England, Nigeria","1,87m",left,"Jun 30, 2025",€100k,1237
+867688,Jack Hinshelwood,Right-Back,19,England,"1,82m",right,"Jun 30, 2028",€16.00m,1237
+504148,Tariq Lamptey,Right-Back,23,"Ghana, England","1,63m",right,"Jun 30, 2025",€12.00m,1237
+111195,Joël Veltman,Right-Back,32,Netherlands,"1,84m",right,"Jun 30, 2025",€10.00m,1237
+415381,Mats Wieffer,Defensive Midfield,24,Netherlands,"1,88m",right,"Jun 30, 2029",€30.00m,1237
+973085,Carlos Baleba,Defensive Midfield,20,Cameroon,"1,79m",left,"Jun 30, 2028",€22.00m,1237
+406634,Matt O'Riley,Central Midfield,23,"Denmark, England","1,89m",left,"Jun 30, 2029",€20.00m,1237
+384461,Jakub Moder,Central Midfield,25,Poland,"1,91m",right,"Jun 30, 2025",€10.00m,1237
+667287,Yasin Ayari,Central Midfield,20,"Sweden, Tunisia","1,72m",right,"Jun 30, 2027",€4.50m,1237
+3333,James Milner,Central Midfield,38,England,"1,75m",right,"Jun 30, 2025",€1.00m,1237
+660867,Julio Enciso,Attacking Midfield,20,Paraguay,"1,73m",right,"Jun 30, 2026",€22.00m,1237
+504849,Kaoru Mitoma,Left Winger,27,Japan,"1,78m",right,"Jun 30, 2027",€45.00m,1237
+658536,Simon Adingra,Right Winger,22,Cote d'Ivoire,"1,75m",right,"Jun 30, 2026",€30.00m,1237
+700106,Brajan Gruda,Right Winger,20,"Germany, Albania","1,78m",left,"Jun 30, 2028",€20.00m,1237
+209212,Solly March,Right Winger,30,England,"1,80m",left,"Jun 30, 2026",€18.00m,1237
+1012534,Yankuba Minteh,Right Winger,20,The Gambia,"1,80m",left,"Jun 30, 2029",€16.00m,1237
+648046,Evan Ferguson,Centre-Forward,19,"Ireland, England","1,88m",right,"Jun 30, 2029",€50.00m,1237
+626724,João Pedro,Centre-Forward,23,Brazil,"1,88m",right,"Jun 30, 2028",€45.00m,1237
+538977,Georginio Rutter,Centre-Forward,22,"France, Martinique","1,82m",left,"Jun 30, 2028",€18.00m,1237
+67063,Danny Welbeck,Centre-Forward,33,"England, Ghana","1,85m",right,"Jun 30, 2026",€5.00m,1237
+120629,Alphonse Areola,Goalkeeper,31,"France, Philippines","1,95m",right,"Jun 30, 2027",€10.00m,379
+61697,Wes Foderingham,Goalkeeper,33,England,"1,85m",left,"Jun 30, 2026",€900k,379
+29692,Lukasz Fabianski,Goalkeeper,39,Poland,"1,90m",right,"Jun 30, 2025",€700k,379
+605184,Jean-Clair Todibo,Centre-Back,24,"France, French Guiana","1,90m",right,"Jun 30, 2025",€35.00m,379
+525247,Max Kilman,Centre-Back,27,"England, Ukraine","1,94m",left,"Jun 30, 2031",€32.00m,379
+415912,Konstantinos Mavropanos,Centre-Back,26,Greece,"1,94m",right,"Jun 30, 2028",€20.00m,379
+845321,Kaelan Casey,Centre-Back,19,England,"1,85m",right,"Jun 30, 2027",€1.00m,379
+181778,Emerson,Left-Back,30,"Italy, Brazil","1,76m",left,"Jun 30, 2026",€12.00m,379
+92571,Aaron Cresswell,Left-Back,34,England,"1,70m",left,"Jun 30, 2025",€900k,379
+477758,Aaron Wan-Bissaka,Right-Back,26,"England, DR Congo","1,83m",right,"Jun 30, 2031",€20.00m,379
+157672,Vladimír Coufal,Right-Back,32,Czech Republic,"1,74m",right,"Jun 30, 2025",€8.00m,379
+401356,Edson Álvarez,Defensive Midfield,26,Mexico,"1,90m",right,"Jun 30, 2028",€35.00m,379
+283628,Tomas Soucek,Defensive Midfield,29,Czech Republic,"1,92m",right,"Jun 30, 2027",€30.00m,379
+342385,Guido Rodríguez,Defensive Midfield,30,"Argentina, Italy","1,85m",right,N/A,€20.00m,379
+372246,Carlos Soler,Central Midfield,27,Spain,"1,80m",right,"Jun 30, 2025",€20.00m,379
+430310,Andy Irving,Central Midfield,24,Scotland,"1,90m",left,"Jun 30, 2026",€2.00m,379
+444523,Lucas Paquetá,Attacking Midfield,27,"Brazil, Portugal","1,80m",left,"Jun 30, 2027",€65.00m,379
+543499,Mohammed Kudus,Attacking Midfield,24,Ghana,"1,77m",left,"Jun 30, 2028",€50.00m,379
+474701,Crysencio Summerville,Left Winger,22,"Netherlands, Suriname","1,74m",right,"Jun 30, 2029",€20.00m,379
+314875,Jarrod Bowen,Right Winger,27,England,"1,76m",left,"Jun 30, 2030",€50.00m,379
+991800,Luis Guilherme,Right Winger,18,Brazil,"1,75m",left,"Jun 30, 2029",€24.00m,379
+75489,Niclas Füllkrug,Centre-Forward,31,Germany,"1,89m",right,"Jun 30, 2028",€15.00m,379
+134294,Danny Ings,Centre-Forward,32,England,"1,77m",right,"Jun 30, 2025",€8.00m,379
+104124,Michail Antonio,Centre-Forward,34,"Jamaica, England","1,80m",right,"Jun 30, 2025",€4.00m,379
+258919,Dean Henderson,Goalkeeper,27,England,"1,88m",right,"Jun 30, 2028",€12.00m,873
+425306,Matt Turner,Goalkeeper,30,"United States, Lithuania","1,91m",right,"Jun 30, 2025",€7.00m,873
+196722,Remi Matthews,Goalkeeper,30,England,"1,92m",right,"Jun 30, 2025",€500k,873
+444641,Louie Moulden,Goalkeeper,22,England,"1,90m",right,N/A,€175k,873
+392757,Marc Guéhi,Centre-Back,24,"England, Cote d'Ivoire","1,82m",right,"Jun 30, 2026",€38.00m,873
+434224,Maxence Lacroix,Centre-Back,24,"France, Guadeloupe","1,90m",right,"Jun 30, 2029",€20.00m,873
+689637,Chadi Riad,Centre-Back,21,"Morocco, Spain","1,87m",left,"Jun 30, 2029",€15.00m,873
+346314,Trevoh Chalobah,Centre-Back,25,"England, Sierra Leone","1,92m",right,"May 31, 2025",€13.00m,873
+578539,Chris Richards,Centre-Back,24,United States,"1,88m",right,"Jun 30, 2027",€12.00m,873
+253341,Rob Holding,Centre-Back,29,England,"1,89m",right,"Jun 30, 2026",€5.00m,873
+730893,Tyrick Mitchell,Left-Back,25,"England, Jamaica","1,81m",left,"Jun 30, 2025",€25.00m,873
+493003,Daniel Muñoz,Right-Back,28,Colombia,"1,81m",right,"Jun 30, 2027",€23.00m,873
+85177,Nathaniel Clyne,Right-Back,33,"England, Grenada","1,75m",right,"Jun 30, 2025",€1.50m,873
+92572,Joel Ward,Right-Back,34,England,"1,86m",right,"Jun 30, 2025",€1.00m,873
+543387,Cheick Doucouré,Defensive Midfield,24,Mali,"1,80m",right,"Jun 30, 2029",€35.00m,873
+744149,Adam Wharton,Defensive Midfield,20,England,"1,82m",left,"Jun 30, 2029",€30.00m,873
+262980,Jefferson Lerma,Defensive Midfield,29,Colombia,"1,79m",right,"Jun 30, 2026",€20.00m,873
+207014,Will Hughes,Central Midfield,29,England,"1,85m",left,"Jun 30, 2025",€9.00m,873
+157506,Jeffrey Schlupp,Left Midfield,31,"Ghana, Germany","1,78m",left,"Jun 30, 2025",€7.00m,873
+479999,Eberechi Eze,Attacking Midfield,26,"England, Nigeria","1,78m",right,"Jun 30, 2027",€55.00m,873
+356141,Daichi Kamada,Attacking Midfield,28,Japan,"1,84m",right,"Jun 30, 2026",€18.00m,873
+743597,Matheus França,Attacking Midfield,20,Brazil,"1,84m",right,"Jun 30, 2028",€15.00m,873
+410225,Ismaïla Sarr,Right Winger,26,Senegal,"1,85m",right,"Jun 30, 2029",€18.00m,873
+340324,Eddie Nketiah,Centre-Forward,25,"England, Ghana","1,75m",right,"Jun 30, 2029",€30.00m,873
+420002,Jean-Philippe Mateta,Centre-Forward,27,"France, DR Congo","1,92m",right,"Jun 30, 2026",€20.00m,873
+127202,Matz Sels,Goalkeeper,32,Belgium,"1,88m",right,"Jun 30, 2027",€7.00m,703
+641458,Carlos Miguel,Goalkeeper,25,Brazil,"2,04m",left,"Jun 30, 2028",€4.00m,703
+1005649,Murillo,Centre-Back,22,Brazil,"1,84m",left,"Jun 30, 2028",€35.00m,703
+673492,Morato,Centre-Back,23,Brazil,"1,92m",left,"Jun 30, 2029",€15.00m,703
+413507,Nikola Milenković,Centre-Back,26,Serbia,"1,95m",right,"Jun 30, 2029",€15.00m,703
+621993,Andrew Omobamidele,Centre-Back,22,"Ireland, Nigeria","1,88m",right,"Jun 30, 2028",€11.00m,703
+142310,Willy Boly,Centre-Back,33,"Cote d'Ivoire, France","1,95m",right,"Jun 30, 2025",€2.50m,703
+933017,Zach Abbott,Centre-Back,18,England,N/A,right,"Jun 30, 2026",€300k,703
+193098,Álex Moreno,Left-Back,31,Spain,"1,79m",left,"May 31, 2025",€13.00m,703
+198516,Harry Toffolo,Left-Back,29,"England, Italy","1,83m",left,"Jun 30, 2025",€5.00m,703
+503680,Neco Williams,Right-Back,23,Wales,"1,83m",right,"Jun 30, 2026",€17.00m,703
+236490,Ola Aina,Right-Back,27,"Nigeria, England","1,84m",right,"Jun 30, 2025",€12.00m,703
+375885,Ibrahim Sangaré,Defensive Midfield,26,Cote d'Ivoire,"1,91m",right,"Jun 30, 2028",€30.00m,703
+808509,Danilo,Defensive Midfield,23,Brazil,"1,77m",left,"Jun 30, 2029",€28.00m,703
+181579,James Ward-Prowse,Central Midfield,29,England,"1,77m",right,"Jun 30, 2025",€30.00m,703
+497291,Nicolás Domínguez,Central Midfield,26,"Argentina, Italy","1,79m",right,"Jun 30, 2028",€17.00m,703
+567576,Elliot Anderson,Central Midfield,21,"England, Scotland","1,79m",right,"Jun 30, 2029",€15.00m,703
+425902,Ryan Yates,Central Midfield,26,England,"1,90m",right,"Jun 30, 2028",€12.00m,703
+429014,Morgan Gibbs-White,Attacking Midfield,24,"England, Jamaica","1,71m",right,"Jun 30, 2027",€40.00m,703
+392768,Callum Hudson-Odoi,Left Winger,23,"England, Ghana","1,78m",right,"Jun 30, 2026",€18.00m,703
+745191,Ramón Sosa,Left Winger,25,"Paraguay, Argentina","1,79m",right,"Jun 30, 2029",€13.00m,703
+663244,Jota Silva,Left Winger,25,Portugal,"1,79m",right,"Jun 30, 2028",€12.00m,703
+583189,Anthony Elanga,Right Winger,22,"Sweden, Cameroon","1,78m",right,"Jun 30, 2028",€22.00m,703
+897481,Eric da Silva Moreira,Right Winger,18,"Germany, Portugal","1,85m",right,"Jun 30, 2028",€1.00m,703
+295313,Taiwo Awoniyi,Centre-Forward,27,Nigeria,"1,83m",right,"Jun 30, 2027",€28.00m,703
+108725,Chris Wood,Centre-Forward,32,New Zealand,"1,91m",right,"Jun 30, 2024",€7.00m,703
+448854,Emmanuel Dennis,Centre-Forward,26,Nigeria,"1,75m",right,"Jun 30, 2026",€4.20m,703
+125714,Mark Flekken,Goalkeeper,31,Netherlands,"1,95m",both,"Jun 30, 2027",€12.00m,1148
+488935,Hákon Rafn Valdimarsson,Goalkeeper,22,Iceland,"1,95m",right,"Jun 30, 2028",€2.50m,1148
+741236,Matthew Cox,Goalkeeper,21,England,"1,83m",right,"Jun 30, 2028",€800k,1148
+469050,Nathan Collins,Centre-Back,23,Ireland,"1,93m",right,"Jun 30, 2029",€25.00m,1148
+328658,Kristoffer Ajer,Centre-Back,26,Norway,"1,98m",right,"Jun 30, 2028",€15.00m,1148
+541231,Sepp van den Berg,Centre-Back,22,Netherlands,"1,92m",right,"Jun 30, 2029",€12.00m,1148
+442248,Ethan Pinnock,Centre-Back,31,"Jamaica, England","1,94m",left,"Jun 30, 2027",€12.00m,1148
+74810,Ben Mee,Centre-Back,35,England,"1,80m",left,"Jun 30, 2025",€1.00m,1148
+709767,Ji-soo Kim,Centre-Back,19,"Korea, South","1,92m",both,"Jun 30, 2027",€600k,1148
+339556,Rico Henry,Left-Back,27,"England, Jamaica","1,70m",left,"Jun 30, 2026",€20.00m,1148
+954104,Jayden Meghoma,Left-Back,18,"England, Nigeria","1,76m",N/A,"Jun 30, 2028",N/A,1148
+591949,Aaron Hickey,Right-Back,22,Scotland,"1,85m",both,"Jun 30, 2026",€28.00m,1148
+391005,Mads Roerslev,Right-Back,25,Denmark,"1,84m",right,"Jun 30, 2026",€10.00m,1148
+270171,Vitaly Janelt,Defensive Midfield,26,Germany,"1,84m",left,"Jun 30, 2026",€22.00m,1148
+148367,Christian Nørgaard,Defensive Midfield,30,Denmark,"1,87m",right,"Jun 30, 2025",€18.00m,1148
+1141628,Yunus Emre Konak,Defensive Midfield,18,Türkiye,"1,81m",right,"Jun 30, 2029",€3.50m,1148
+319859,Mathias Jensen,Central Midfield,28,Denmark,"1,80m",right,"Jun 30, 2026",€28.00m,1148
+340321,Josh Dasilva,Central Midfield,25,"England, Angola","1,84m",left,"Jun 30, 2025",€10.00m,1148
+470596,Paris Maghoma,Central Midfield,23,"England, DR Congo","1,84m",right,"Jun 30, 2027",€350k,1148
+874538,Ryan Trevitt,Central Midfield,21,England,"1,7m",right,"Jun 30, 2026",€275k,1148
+559263,Fábio Carvalho,Attacking Midfield,22,"Portugal, England","1,70m",right,N/A,€14.00m,1148
+717411,Yegor Yarmolyuk,Attacking Midfield,20,Ukraine,"1,80m",right,"Jun 30, 2028",€10.00m,1148
+473050,Kevin Schade,Left Winger,22,"Germany, Nigeria","1,85m",right,"Jun 30, 2028",€22.00m,1148
+644401,Keane Lewis-Potter,Left Winger,23,England,"1,70m",right,"Jun 30, 2028",€15.00m,1148
+540941,Mikkel Damsgaard,Left Winger,24,Denmark,"1,80m",right,"Jun 30, 2027",€10.00m,1148
+1086375,Gustavo Nunes,Left Winger,18,Brazil,"1,73m",right,"Jun 30, 2030",€10.00m,1148
+413039,Bryan Mbeumo,Right Winger,25,"Cameroon, France","1,71m",left,"Jun 30, 2026",€40.00m,1148
+388165,Yoane Wissa,Centre-Forward,28,"DR Congo, France","1,76m",right,"Jun 30, 2026",€28.00m,1148
+739443,Igor Thiago,Centre-Forward,23,"Brazil, Bulgaria","1,91m",right,"Jun 30, 2029",€25.00m,1148
+249994,José Sá,Goalkeeper,31,Portugal,"1,92m",right,"Jun 30, 2027",€14.00m,543
+110864,Sam Johnstone,Goalkeeper,31,England,"1,93m",right,"Jun 30, 2028",€10.00m,543
+136401,Daniel Bentley,Goalkeeper,31,England,"1,93m",N/A,"Jun 30, 2027",€2.00m,543
+215810,Tom King,Goalkeeper,29,"Wales, England","1,94m",right,"Jun 30, 2027",€200k,543
+606718,Toti,Centre-Back,25,"Portugal, Guinea-Bissau","1,87m",left,"Jun 30, 2029",€20.00m,543
+438001,Santiago Bueno,Centre-Back,25,"Uruguay, Italy","1,90m",right,"Jun 30, 2028",€8.00m,543
+716276,Yerson Mosquera,Centre-Back,23,Colombia,"1,88m",right,"Jun 30, 2026",€6.00m,543
+121477,Craig Dawson,Centre-Back,34,England,"1,88m",right,"Jun 30, 2025",€2.00m,543
+955253,Bastien Meupiyou,Centre-Back,18,"France, Cameroon","1,91m",left,"Jun 30, 2029",€800k,543
+578391,Rayan Aït-Nouri,Left-Back,23,"Algeria, France","1,80m",left,"Jun 30, 2026",€35.00m,543
+231572,Nélson Semedo,Right-Back,30,"Portugal, Cape Verde","1,77m",right,"Jun 30, 2025",€12.00m,543
+171679,Matt Doherty,Right-Back,32,Ireland,"1,85m",right,"Jun 30, 2026",€3.00m,543
+1193867,Pedro Lima,Right-Back,18,Brazil,"1,74m",right,"Jun 30, 2029",€2.50m,543
+800176,André,Defensive Midfield,23,Brazil,"1,76m",right,N/A,€25.00m,543
+170934,Mario Lemina,Defensive Midfield,31,"Gabon, France","1,84m",right,"Jun 30, 2025",€10.00m,543
+649020,Boubacar Traoré,Defensive Midfield,23,Mali,"1,83m",right,"Jun 30, 2027",€6.00m,543
+735570,João Gomes,Central Midfield,23,Brazil,"1,76m",right,"Jun 30, 2028",€35.00m,543
+450050,Jean-Ricner Bellegarde,Central Midfield,26,"France, Haiti","1,72m",right,"Jun 30, 2028",€15.00m,543
+433183,Tommy Doyle,Central Midfield,22,England,"1,72m",right,"Jun 30, 2028",€10.00m,543
+532541,Luke Cundle,Central Midfield,22,England,"1,71m",right,"Jun 30, 2026",€5.00m,543
+667121,Rodrigo Gomes,Right Midfield,21,Portugal,"1,75m",right,"Jun 30, 2029",€12.00m,543
+225122,Gonçalo Guedes,Left Winger,27,Portugal,"1,79m",right,"Jun 30, 2027",€15.00m,543
+742451,Carlos Forbs,Left Winger,20,"Portugal, Guinea-Bissau","1,69m",left,"Jun 30, 2025",€8.00m,543
+1060740,Enso González,Left Winger,19,Paraguay,"1,69m",left,"Jun 30, 2029",€4.00m,543
+74230,Pablo Sarabia,Right Winger,32,Spain,"1,74m",left,"Jun 30, 2025",€10.00m,543
+517894,Matheus Cunha,Centre-Forward,25,Brazil,"1,83m",right,"Jun 30, 2027",€45.00m,543
+429983,Jørgen Strand Larsen,Centre-Forward,24,Norway,"1,93m",right,"Jun 30, 2025",€25.00m,543
+292246,Hee-chan Hwang,Centre-Forward,28,"Korea, South","1,77m",right,"Jun 30, 2028",€25.00m,543
+369567,Sasa Kalajdzic,Centre-Forward,27,Austria,"2,00m",right,"Jun 30, 2027",€5.00m,543
+192279,Kepa Arrizabalaga,Goalkeeper,29,Spain,"1,88m",right,"May 31, 2025",€12.00m,989
+357658,Mark Travers,Goalkeeper,25,Ireland,"1,91m",right,"Jun 30, 2027",€3.50m,989
+582078,Will Dennis,Goalkeeper,24,England,"1,88m",right,"Jun 30, 2026",€350k,989
+659089,Ilya Zabarnyi,Centre-Back,22,Ukraine,"1,89m",right,"Jun 30, 2029",€32.00m,989
+469781,Marcos Senesi,Centre-Back,27,"Argentina, Italy","1,85m",left,"Jun 30, 2026",€22.00m,989
+890290,Dean Huijsen,Centre-Back,19,"Spain, Netherlands","1,97m",both,"Jun 30, 2030",€10.00m,989
+611793,James Hill,Centre-Back,22,England,"1,84m",right,"Jun 30, 2026",€2.00m,989
+730861,Milos Kerkez,Left-Back,20,"Hungary, Serbia","1,80m",left,N/A,€20.00m,989
+471690,Max Aarons,Right-Back,24,"England, Jamaica","1,71m",right,N/A,€16.00m,989
+513970,Julián Araujo,Right-Back,23,"Mexico, United States","1,76m",right,"Jun 30, 2029",€8.00m,989
+61841,Adam Smith,Right-Back,33,England,"1,74m",right,"Jun 30, 2026",€1.00m,989
+332705,Tyler Adams,Defensive Midfield,25,United States,"1,75m",right,"Jun 30, 2028",€15.00m,989
+320411,Philip Billing,Central Midfield,28,"Denmark, Nigeria","1,93m",left,"Jun 30, 2027",€22.00m,989
+855256,Alex Scott,Central Midfield,21,"England, Guernsey","1,78m",right,N/A,€20.00m,989
+249089,Lewis Cook,Central Midfield,27,England,"1,75m",right,"Jun 30, 2028",€12.00m,989
+188077,Ryan Christie,Central Midfield,29,Scotland,"1,78m",left,"Jun 30, 2027",€12.00m,989
+399434,Marcus Tavernier,Left Midfield,25,England,"1,78m",left,"Jun 30, 2028",€20.00m,989
+823231,Dango Ouattara,Left Winger,22,Burkina Faso,"1,77m",left,"Jun 30, 2028",€20.00m,989
+512385,Luis Sinisterra,Left Winger,25,Colombia,"1,72m",right,N/A,€17.00m,989
+330659,Justin Kluivert,Left Winger,25,"Netherlands, Suriname","1,72m",both,"Jun 30, 2028",€14.00m,989
+583255,Antoine Semenyo,Right Winger,24,"Ghana, England","1,85m",right,"Jun 30, 2029",€10.00m,989
+277033,David Brooks,Right Winger,27,"Wales, England","1,73m",left,"Jun 30, 2026",€8.00m,989
+711337,Evanilson,Centre-Forward,24,Brazil,"1,83m",both,N/A,€35.00m,989
+251106,Enes Ünal,Centre-Forward,27,Türkiye,"1,87m",right,"Jun 30, 2028",€18.00m,989
+130164,Jordan Pickford,Goalkeeper,30,England,"1,85m",left,"Jun 30, 2027",€22.00m,29
+329813,João Virgínia,Goalkeeper,24,Portugal,"1,92m",left,"Jun 30, 2025",€800k,29
+33873,Asmir Begovic,Goalkeeper,37,"Bosnia-Herzegovina, Canada","1,99m",right,"Jun 30, 2025",€300k,29
+661053,Jarrad Branthwaite,Centre-Back,22,England,"1,95m",left,"Jun 30, 2027",€42.00m,29
+173504,James Tarkowski,Centre-Back,31,"England, Poland","1,85m",right,"Jun 30, 2026",€13.00m,29
+711544,Jake O'Brien,Centre-Back,23,Ireland,"1,97m",right,"Jun 30, 2028",€12.00m,29
+118534,Michael Keane,Centre-Back,31,"England, Ireland","1,88m",right,"Jun 30, 2025",€6.00m,29
+404842,Vitaliy Mykolenko,Left-Back,25,Ukraine,"1,80m",left,"Jun 30, 2026",€28.00m,29
+14086,Ashley Young,Left-Back,39,"England, Jamaica","1,75m",both,"Jun 30, 2025",€500k,29
+424015,Nathan Patterson,Right-Back,22,Scotland,"1,89m",right,"Jun 30, 2027",€15.00m,29
+68390,Séamus Coleman,Right-Back,35,Ireland,"1,77m",right,"Jun 30, 2025",€500k,29
+856479,Roman Dixon,Right-Back,19,England,"1,75m",right,"Jun 30, 2027",N/A,29
+505219,James Garner,Defensive Midfield,23,England,"1,82m",right,"Jun 30, 2026",€22.00m,29
+289592,Orel Mangala,Central Midfield,26,"Belgium, DR Congo","1,78m",right,"Jun 30, 2025",€20.00m,29
+127187,Abdoulaye Doucouré,Central Midfield,31,"Mali, France","1,83m",right,"Jun 30, 2025",€10.00m,29
+696589,Tim Iroegbunam,Central Midfield,21,"England, Nigeria","1,83m",right,"Jun 30, 2027",€4.00m,29
+126665,Idrissa Gueye,Central Midfield,35,Senegal,"1,74m",right,"Jun 30, 2025",€3.00m,29
+513245,Jesper Lindstrøm,Attacking Midfield,24,Denmark,"1,82m",right,"Jun 30, 2025",€22.00m,29
+584769,Dwight McNeil,Left Winger,24,England,"1,83m",left,"Jun 30, 2027",€22.00m,29
+417346,Jack Harrison,Right Winger,27,England,"1,75m",left,"Jun 30, 2025",€18.00m,29
+306024,Dominic Calvert-Lewin,Centre-Forward,27,England,"1,89m",right,"Jun 30, 2025",€22.00m,29
+571743,Armando Broja,Centre-Forward,23,"Albania, England","1,91m",right,"May 31, 2025",€22.00m,29
+595809,Beto,Centre-Forward,26,"Portugal, Guinea-Bissau","1,94m",right,"Jun 30, 2027",€20.00m,29
+623570,Iliman Ndiaye,Centre-Forward,24,"Senegal, France","1,80m",right,"Jun 30, 2029",€15.00m,29
+670688,Chermiti,Centre-Forward,20,"Portugal, Tunisia","1,92m",right,"Jun 30, 2027",€9.00m,29
+427568,Aaron Ramsdale,Goalkeeper,26,England,"1,90m",right,"Jun 30, 2028",€25.00m,180
+585550,Gavin Bazunu,Goalkeeper,22,"Ireland, Nigeria","1,88m",right,"Jun 30, 2027",€15.00m,180
+336367,Joe Lumley,Goalkeeper,29,England,"1,90m",right,"Jun 30, 2025",€600k,180
+95976,Alex McCarthy,Goalkeeper,34,England,"1,93m",right,"Jun 30, 2026",€500k,180
+503977,Taylor Harwood-Bellis,Centre-Back,22,England,"1,88m",right,"Jun 30, 2028",€22.00m,180
+467563,Armel Bella-Kotchap,Centre-Back,22,"Germany, Cameroon","1,90m",right,"Jun 30, 2026",€12.00m,180
+243028,Jan Bednarek,Centre-Back,28,Poland,"1,89m",right,"Jun 30, 2027",€11.00m,180
+732165,Ronnie Edwards,Centre-Back,21,England,"1,85m",right,"Jun 30, 2028",€3.80m,180
+503990,Nathan Wood,Centre-Back,22,"England, Jamaica","1,88m",right,"Jun 30, 2028",€3.80m,180
+163744,Jack Stephens,Centre-Back,30,England,"1,85m",right,"Jun 30, 2025",€2.00m,180
+646738,Juan Larios,Left-Back,20,Spain,"1,70m",left,"Jun 30, 2027",€4.50m,180
+262300,Ryan Manning,Left-Back,28,Ireland,"1,73m",left,"Jun 30, 2027",€3.00m,180
+195633,Charlie Taylor,Left-Back,31,England,"1,83m",left,"Jun 30, 2026",€3.00m,180
+341051,Kyle Walker-Peters,Right-Back,27,"England, Jamaica","1,73m",right,"Jun 30, 2025",€20.00m,180
+405385,Yukinari Sugawara,Right-Back,24,Japan,"1,79m",right,"Jun 30, 2028",€12.00m,180
+324223,James Bree,Right-Back,26,England,N/A,right,"Jun 30, 2026",€2.20m,180
+711999,Lesley Ugochukwu,Defensive Midfield,20,"France, Nigeria","1,90m",right,"May 31, 2025",€25.00m,180
+506189,Flynn Downes,Defensive Midfield,25,England,"1,78m",right,"Jun 30, 2028",€9.00m,180
+880245,Mateus Fernandes,Central Midfield,20,Portugal,"1,78m",right,"Jun 30, 2029",€8.00m,180
+468198,Joe Aribo,Central Midfield,28,"Nigeria, England","1,83m",left,"Jun 30, 2026",€5.00m,180
+444211,Will Smallbone,Central Midfield,24,"Ireland, England","1,83m",right,"Jun 30, 2026",€5.00m,180
+43530,Adam Lallana,Attacking Midfield,36,England,"1,72m",both,"Jun 30, 2025",€1.00m,180
+746695,Kamaldeen Sulemana,Left Winger,22,Ghana,"1,75m",right,"Jun 30, 2027",€13.00m,180
+234781,Maxwel Cornet,Left Winger,28,"Cote d'Ivoire, France","1,79m",left,"Jun 30, 2025",€9.00m,180
+146795,Ryan Fraser,Left Winger,30,Scotland,"1,63m",right,"Jun 30, 2026",€3.00m,180
+933900,Samuel Amo-Ameyaw,Right Winger,18,"England, Ghana","1,74m",left,"Jun 30, 2026",€300k,180
+866655,Tyler Dibling,Right Winger,18,England,"1,78m",left,"Jun 30, 2025",N/A,180
+250426,Adam Armstrong,Centre-Forward,27,England,"1,73m",right,"Jun 30, 2027",€16.00m,180
+533662,Cameron Archer,Centre-Forward,22,"England, Jamaica","1,75m",right,"Jun 30, 2028",€13.00m,180
+272855,Paul Onuachu,Centre-Forward,30,Nigeria,"2,01m",right,"Jun 30, 2026",€13.00m,180
+426192,Ben Brereton Díaz,Centre-Forward,25,"Chile, England","1,85m",right,"Jun 30, 2028",€8.00m,180
+447995,Ross Stewart,Centre-Forward,28,Scotland,"1,88m",right,"Jun 30, 2026",€4.50m,180
+72476,Bernd Leno,Goalkeeper,32,Germany,"1,90m",right,"Jun 30, 2027",€13.00m,931
+381469,Steven Benda,Goalkeeper,25,Germany,"1,92m",right,"Jun 30, 2026",€1.00m,931
+260827,Joachim Andersen,Centre-Back,28,Denmark,"1,92m",right,"Jun 30, 2029",€35.00m,931
+272622,Issa Diop,Centre-Back,27,"France, Senegal","1,94m",right,"Jun 30, 2027",€20.00m,931
+461883,Calvin Bassey,Centre-Back,24,"Nigeria, England","1,85m",left,"Jun 30, 2027",€16.00m,931
+494880,Jorge Cuenca,Centre-Back,24,Spain,"1,90m",left,"Jun 30, 2028",€6.00m,931
+349701,Antonee Robinson,Left-Back,27,"United States, England","1,83m",left,"Jun 30, 2028",€25.00m,931
+392775,Ryan Sessegnon,Left-Back,24,England,"1,78m",left,"Jun 30, 2026",€10.00m,931
+262226,Timothy Castagne,Right-Back,28,Belgium,"1,85m",right,"Jun 30, 2027",€17.00m,931
+206746,Kenny Tete,Right-Back,28,"Netherlands, Mozambique","1,80m",right,"Jun 30, 2025",€15.00m,931
+333014,Sander Berge,Central Midfield,26,Norway,"1,95m",right,"Jun 30, 2029",€20.00m,931
+226973,Harrison Reed,Central Midfield,29,England,"1,81m",right,"Jun 30, 2027",€15.00m,931
+245056,Saša Lukić,Central Midfield,28,Serbia,"1,82m",right,"Jun 30, 2027",€10.00m,931
+123275,Tom Cairney,Central Midfield,33,"Scotland, England","1,85m",left,"Jun 30, 2025",€2.00m,931
+392765,Emile Smith Rowe,Attacking Midfield,24,England,"1,82m",right,"Jun 30, 2029",€22.00m,931
+203394,Andreas Pereira,Attacking Midfield,28,"Brazil, Belgium","1,78m",right,"Jun 30, 2026",€20.00m,931
+242631,Alex Iwobi,Left Winger,28,"Nigeria, England","1,83m",right,"Jun 30, 2028",€25.00m,931
+279455,Harry Wilson,Right Winger,27,"Wales, England","1,73m",left,"Jun 30, 2026",€17.00m,931
+340325,Reiss Nelson,Right Winger,24,"England, Jamaica","1,75m",right,"Jun 30, 2025",€15.00m,931
+204103,Adama Traoré,Right Winger,28,"Spain, Mali","1,78m",right,"Jun 30, 2025",€9.00m,931
+735571,Rodrigo Muniz,Centre-Forward,23,Brazil,"1,86m",right,"Jun 30, 2026",€20.00m,931
+206040,Raúl Jiménez,Centre-Forward,33,Mexico,"1,87m",right,"Jun 30, 2025",€5.00m,931
+525287,Carlos Vinícius,Centre-Forward,29,Brazil,"1,90m",left,"Jun 30, 2025",€4.00m,931
+371021,Arijanet Muric,Goalkeeper,25,"Kosovo, Montenegro","1,98m",right,"Jun 30, 2028",€7.00m,677
+208379,Christian Walton,Goalkeeper,28,England,"1,95m",left,"Jun 30, 2026",€900k,677
+621997,Cieran Slicker,Goalkeeper,22,"Scotland, England",N/A,N/A,"Jun 30, 2026",€300k,677
+693095,Jacob Greaves,Centre-Back,24,England,"1,93m",left,"Jun 30, 2029",€15.00m,677
+401320,Dara O'Shea,Centre-Back,25,Ireland,"1,89m",right,"Jun 30, 2029",€7.00m,677
+342046,Axel Tuanzebe,Centre-Back,26,"DR Congo, England","1,85m",right,"Jun 30, 2025",€2.20m,677
+527425,Luke Woolfenden,Centre-Back,25,England,"1,93m",right,"Jun 30, 2025",€2.00m,677
+255788,Cameron Burgess,Centre-Back,28,"Australia, Scotland","1,94m",left,"Jun 30, 2025",€1.50m,677
+596446,Leif Davis,Left-Back,24,England,"1,82m",left,"Jun 30, 2025",€9.00m,677
+146509,Conor Townsend,Left-Back,31,England,"1,83m",left,"Jun 30, 2026",€1.50m,677
+468002,Ben Johnson,Right-Back,24,England,"1,84m",right,"Jun 30, 2028",€8.00m,677
+528892,Harry Clarke,Right-Back,23,England,"1,80m",right,"Jun 30, 2026",€5.00m,677
+351749,Kalvin Phillips,Defensive Midfield,28,"England, Jamaica","1,79m",right,"Jun 30, 2025",€25.00m,677
+468066,Jens Cajuste,Defensive Midfield,25,"Sweden, United States","1,88m",right,"Jun 30, 2025",€10.00m,677
+458178,Jack Taylor,Central Midfield,26,"Ireland, England","1,85m",right,"Jun 30, 2026",€1.80m,677
+123551,Sam Morsy,Central Midfield,33,"Egypt, England","1,75m",right,"Jun 30, 2026",€900k,677
+181687,Massimo Luongo,Central Midfield,32,"Australia, Italy","1,76m",right,"Jun 30, 2025",€500k,677
+292139,Sammie Szmodics,Attacking Midfield,29,"Ireland, Hungary","1,68m",right,"Jun 30, 2028",€7.00m,677
+559794,Jack Clarke,Left Winger,23,England,"1,81m",right,"Jun 30, 2029",€15.00m,677
+344009,Nathan Broadhead,Left Winger,26,Wales,"1,78m",right,"Jun 30, 2026",€5.00m,677
+392591,Chiedozie Ogbene,Right Winger,27,"Ireland, Nigeria","1,81m",right,"Jun 30, 2028",€8.00m,677
+741238,Omari Hutchinson,Right Winger,20,"England, Jamaica","1,74m",left,"Jun 30, 2029",€7.00m,677
+255731,Wes Burns,Right Winger,29,Wales,"1,73m",right,"Jun 30, 2026",€1.50m,677
+349503,Conor Chaplin,Second Striker,27,England,"1,68m",left,"Jun 30, 2026",€7.00m,677
+610849,Liam Delap,Centre-Forward,21,"England, Ireland","1,86m",right,"Jun 30, 2029",€8.00m,677
+420808,George Hirst,Centre-Forward,25,"England, Scotland","1,91m",right,"Jun 30, 2027",€4.00m,677
+610581,Ali Al-Hamadi,Centre-Forward,22,"Iraq, England","1,87m",right,"Jun 30, 2028",€1.00m,677
+400536,Mads Hermansen,Goalkeeper,24,Denmark,"1,87m",right,"Jun 30, 2028",€9.00m,1003
+260841,Daniel Iversen,Goalkeeper,27,Denmark,"1,91m",N/A,"Jun 30, 2025",€3.00m,1003
+203026,Danny Ward,Goalkeeper,31,Wales,"1,91m",right,"Jun 30, 2025",€1.80m,1003
+486144,Jakub Stolarczyk,Goalkeeper,23,Poland,"1,94m",right,"Jun 30, 2026",€400k,1003
+292808,Wout Faes,Centre-Back,26,Belgium,"1,87m",right,"Jun 30, 2027",€20.00m,1003
+461833,Caleb Okoli,Centre-Back,23,"Italy, Nigeria","1,91m",right,"Jun 30, 2029",€8.00m,1003
+128901,Conor Coady,Centre-Back,31,England,"1,85m",right,"Jun 30, 2026",€3.00m,1003
+99331,Jannik Vestergaard,Centre-Back,32,"Denmark, Germany","1,99m",both,"Jun 30, 2027",€3.00m,1003
+413220,James Justin,Left-Back,26,"England, St. Lucia","1,83m",both,"Jun 30, 2026",€15.00m,1003
+564529,Victor Kristiansen,Left-Back,21,Denmark,"1,81m",left,"Jun 30, 2028",€15.00m,1003
+505194,Luke Thomas,Left-Back,23,England,"1,81m",left,"Jun 30, 2026",€6.00m,1003
+215876,Ricardo Pereira,Right-Back,30,"Portugal, Cape Verde","1,75m",right,"Jun 30, 2026",€8.00m,1003
+274839,Wilfred Ndidi,Defensive Midfield,27,"Nigeria, England","1,83m",right,"Jun 30, 2027",€16.00m,1003
+406638,Oliver Skipp,Defensive Midfield,24,England,"1,75m",right,"Jun 30, 2029",€15.00m,1003
+344605,Boubakary Soumaré,Defensive Midfield,25,"France, Senegal","1,88m",right,"Jun 30, 2026",€14.00m,1003
+249126,Harry Winks,Defensive Midfield,28,England,"1,78m",right,"Jun 30, 2026",€12.00m,1003
+341501,Hamza Choudhury,Defensive Midfield,26,"England, Bangladesh","1,78m",right,"Jun 30, 2027",€4.50m,1003
+936842,Michael Golding,Central Midfield,18,"England, Ireland","1,80m",right,"Jun 30, 2028",€300k,1003
+654982,Bilal El Khannouss,Attacking Midfield,20,"Morocco, Belgium","1,80m",right,"Jun 30, 2028",€30.00m,1003
+983989,Facundo Buonanotte,Attacking Midfield,19,"Argentina, Italy","1,74m",left,"Jun 30, 2025",€18.00m,1003
+340328,Stephy Mavididi,Left Winger,26,"England, DR Congo","1,82m",right,"Jun 30, 2028",€11.00m,1003
+864121,Issahaku Fatawu,Right Winger,20,Ghana,"1,77m",left,"Jun 30, 2029",€10.00m,1003
+186186,Bobby De Cordova-Reid,Right Winger,31,"Jamaica, England","1,70m",right,"Jun 30, 2027",€5.00m,1003
+621193,Kasey McAteer,Right Winger,22,"Ireland, England","1,77m",right,"Jun 30, 2028",€900k,1003
+344152,Odsonne Edouard,Centre-Forward,26,"France, French Guiana","1,87m",right,"Jun 30, 2025",€18.00m,1003
+365172,Patson Daka,Centre-Forward,25,Zambia,"1,83m",right,"Jun 30, 2026",€12.00m,1003
+108354,Jordan Ayew,Centre-Forward,33,"Ghana, France","1,82m",right,"Jun 30, 2026",€4.00m,1003
+197838,Jamie Vardy,Centre-Forward,37,England,"1,79m",right,"Jun 30, 2025",€1.00m,1003
+262749,David Raya,Goalkeeper,29,Spain,"1,83m",right,N/A,€35.00m,11
+111819,Neto,Goalkeeper,35,"Brazil, Italy","1,90m",right,"Jun 30, 2025",€2.50m,11
+495666,William Saliba,Centre-Back,23,"France, Cameroon","1,92m",right,"Jun 30, 2027",€80.00m,11
+435338,Gabriel Magalhães,Centre-Back,26,Brazil,"1,90m",left,"Jun 30, 2027",€70.00m,11
+502821,Riccardo Calafiori,Centre-Back,22,Italy,"1,88m",left,"Jun 30, 2029",€45.00m,11
+420243,Jurrien Timber,Centre-Back,23,"Netherlands, Curacao","1,79m",right,"Jun 30, 2028",€38.00m,11
+425918,Jakub Kiwior,Centre-Back,24,Poland,"1,89m",left,"Jun 30, 2028",€30.00m,11
+203853,Oleksandr Zinchenko,Left-Back,27,Ukraine,"1,75m",left,"Jun 30, 2026",€38.00m,11
+300716,Kieran Tierney,Left-Back,27,"Scotland, Isle of Man","1,80m",left,"Jun 30, 2026",€12.00m,11
+335721,Ben White,Right-Back,26,England,"1,86m",right,"Jun 30, 2028",€55.00m,11
+331560,Takehiro Tomiyasu,Right-Back,25,Japan,"1,88m",right,"Jun 30, 2026",€35.00m,11
+357662,Declan Rice,Defensive Midfield,25,"England, Ireland","1,88m",right,"Jun 30, 2028",€120.00m,11
+230784,Thomas Partey,Defensive Midfield,31,Ghana,"1,85m",right,"Jun 30, 2025",€18.00m,11
+102017,Jorginho,Defensive Midfield,32,"Italy, Brazil","1,78m",right,"Jun 30, 2025",€12.00m,11
+338424,Mikel Merino,Central Midfield,28,Spain,"1,88m",left,"Jun 30, 2028",€50.00m,11
+316264,Martin Ødegaard,Attacking Midfield,25,Norway,"1,78m",left,"Jun 30, 2028",€110.00m,11
+890719,Ethan Nwaneri,Attacking Midfield,17,"England, Nigeria","1,76m",left,N/A,€8.00m,11
+655488,Gabriel Martinelli,Left Winger,23,"Brazil, Italy","1,78m",right,"Jun 30, 2027",€70.00m,11
+144028,Leandro Trossard,Left Winger,29,Belgium,"1,72m",right,"Jun 30, 2026",€35.00m,11
+134425,Raheem Sterling,Left Winger,29,"England, Jamaica","1,70m",right,"May 31, 2025",€35.00m,11
+433177,Bukayo Saka,Right Winger,23,"England, Nigeria","1,78m",left,"Jun 30, 2027",€140.00m,11
+309400,Kai Havertz,Centre-Forward,25,Germany,"1,93m",left,"Jun 30, 2028",€70.00m,11
+363205,Gabriel Jesus,Centre-Forward,27,Brazil,"1,75m",right,"Jun 30, 2027",€65.00m,11

@@ -1,0 +1,41 @@
+club_id,club_name,stadium_name,stadiumSeats,average_age,name,competition_id
+1049,Valencia CF,Mestalla,49430,25.0,LaLiga,ES1
+13,Atlético de Madrid,Civitas Metropolitano,70460,28.0,LaLiga,ES1
+418,Real Madrid,Santiago Bernabéu,81044,26.6,LaLiga,ES1
+1050,Villarreal CF,La Cerámica,23500,26.8,LaLiga,ES1
+12321,Girona FC,Montilivi,14624,27.2,LaLiga,ES1
+621,Athletic Bilbao,San Mamés,53289,26.6,LaLiga,ES1
+472,UD Las Palmas,Estadio de Gran Canaria,32400,27.0,LaLiga,ES1
+368,Sevilla FC,Ramón Sánchez-Pizjuán,43883,25.8,LaLiga,ES1
+237,RCD Mallorca,Mallorca Son Moix,26020,27.4,LaLiga,ES1
+150,Real Betis Balompié,Benito Villamarín,60721,27.8,LaLiga,ES1
+1108,Deportivo Alavés,Mendizorroza,19840,26.0,LaLiga,ES1
+331,CA Osasuna,El Sadar,23576,27.2,LaLiga,ES1
+681,Real Sociedad,Reale Arena,39313,24.6,LaLiga,ES1
+940,Celta de Vigo,Abanca Balaídos,24870,26.4,LaLiga,ES1
+1244,CD Leganés,Butarque,12454,26.7,LaLiga,ES1
+366,Real Valladolid CF,José Zorrilla,27618,26.2,LaLiga,ES1
+3709,Getafe CF,Coliseum,16800,25.8,LaLiga,ES1
+281,Manchester City,Etihad Stadium,55017,27.2,Premier League,GB1
+367,Rayo Vallecano,Estadio de Vallecas,14708,29.0,LaLiga,ES1
+131,FC Barcelona,Olímpic Lluís Companys,55926,23.4,LaLiga,ES1
+631,Chelsea FC,Stamford Bridge,40853,23.4,Premier League,GB1
+31,Liverpool FC,Anfield,60725,26.0,Premier League,GB1
+985,Manchester United,Old Trafford,74879,25.6,Premier League,GB1
+714,RCD Espanyol Barcelona,Stage Front Stadium,40500,26.1,LaLiga,ES1
+148,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,25.3,Premier League,GB1
+762,Newcastle United,St James' Park,52338,27.3,Premier League,GB1
+405,Aston Villa,Villa Park,42682,26.2,Premier League,GB1
+1237,Brighton & Hove Albion,AMEX Stadium,31800,25.0,Premier League,GB1
+379,West Ham United,London Stadium,62500,28.0,Premier League,GB1
+873,Crystal Palace,Selhurst Park,26047,26.4,Premier League,GB1
+703,Nottingham Forest,The City Ground,30445,25.3,Premier League,GB1
+1148,Brentford FC,Gtech Community Stadium,17250,24.1,Premier League,GB1
+543,Wolverhampton Wanderers,Molineux Stadium,32050,25.6,Premier League,GB1
+989,AFC Bournemouth,Vitality Stadium,11329,25.0,Premier League,GB1
+29,Everton FC,Goodison Park,39571,26.8,Premier League,GB1
+180,Southampton FC,St Mary's Stadium,32384,25.4,Premier League,GB1
+931,Fulham FC,Craven Cottage,25700,27.3,Premier League,GB1
+677,Ipswich Town,Portman Road,29673,25.9,Premier League,GB1
+1003,Leicester City,King Power Stadium,32273,25.9,Premier League,GB1
+11,Arsenal FC,Emirates Stadium,60704,26.1,Premier League,GB1

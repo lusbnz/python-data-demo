@@ -50,7 +50,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    competition_data = load_json('competition_data.json')
+    competition_data = load_json('raw_data/competition.json')
     
     club_ids = []
     for competition in competition_data:
@@ -59,4 +59,4 @@ if __name__ == "__main__":
 
     club_data = fetch_club_data(club_ids)
 
-    save_to_json(club_data, 'club_data.json')
+    save_to_json(club_data, 'raw_data/club.json')
